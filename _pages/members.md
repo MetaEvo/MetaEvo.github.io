@@ -10,6 +10,10 @@ redirect_from:
 
 ## Advisor
 
+<div  align="center">    
+<img src="/images/scut.jpg" width = "400" alt=""scut align=center />
+</div>
+
 [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=zh-CN)
 
 ## Student Founder
