@@ -12,7 +12,7 @@ title                    : "GMC-DRL Team"
 title_separator          : "-"
 name                     : &name "GMC-DRL Team"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://GMC-DRL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GMC-DRL/GMC-DRL.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Guangzhou, Guangdong, China"
   employer         : "South China University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "scut.crazynicolas@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
