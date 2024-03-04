@@ -21,7 +21,7 @@ repository               : "GMC-DRL/GMC-DRL.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "gmc.png"
   name             : "GMC-DRL Team"
   pronouns         : # example: "she/her"  
   bio              : "Research team on (Meta-)Black-Box Optimization, Deep Rinforcement Learning and Large Language Model"
