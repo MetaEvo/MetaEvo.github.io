@@ -3,6 +3,9 @@ layout: archive
 title: "Members"
 permalink: /members/
 author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 # Advisor
@@ -17,8 +20,9 @@ Hongshu Guo (PhD, 22-26)
 
 # Student Member
 ## Undergraduate
+
 | Name | Year in Group | Post-Graduation Career |
-|:---:|:---:|:---|
+|:--------:|:--------:|:--------|
 | **Jiacheng Chen**(\*co-founder) | 2021 -      | - |
 | Zhenrui Li    | 2021 - 2023 | - |
 | Wenjie Qiu    | 2023 -      | - |
@@ -27,6 +31,7 @@ Hongshu Guo (PhD, 22-26)
 | Zechuan Huang    | 2023 -      | - |
 
 ## Master
+
 | Name | Year in Group | Post-Graduation Career |
 |:---:|:---:|:---|
 | Hongqiao Lian | 2023 -      | - |
