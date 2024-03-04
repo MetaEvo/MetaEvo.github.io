@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![scut](/images/scut.jpg)
 
 We are a research team mainly focus on the [Evolutionary Computing](), [Deep Reinforcement Learning](), [Black Box Optimization]() and [Meta Black Box Optimization](). We belong to the Computational Intelligence Lab, School of Computer Science, South China University of Technology. 
 
