@@ -15,13 +15,28 @@ redirect_from:
 
 ## Advisor
 
-[Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=zh-CN)
+<img src="/images/gyj.jpg" height = "200" alt="gyj" align="left"/>
+
+[Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=zh-CN) (Senior Member, IEEE) received the B.S. and Ph.D. degrees in Computer Science from Sun Yat-sen University, China, in 2010 and 2014, respectively. She is currently a Full Professor with the School of Computer Science and Engineering, South China University of Technology, China. Her research interests include evolutionary computation, swarm intelligence, and their applications to intelligent transportation and smart city scheduling. She has published over 100 papers, including more than 40 IEEE Transactions papers, in her research area. Dr. Gong was a recipient of the Pearl River Young Scholar from the Guangdong Education Department in 2017, and the Guangdong Natural Science Funds for Distinguished Young Scholars in 2022. 
+
+<br>
+<br>
 
 ## Student Founder
 
-[Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN) (PhD, 22-26)
+<img src="/images/mzy_photo.jpg" height = "160" alt="mzy" align="left"/>
 
-Hongshu Guo (PhD, 22-26)
+[Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN) (PhD, 22-26) received the B.Eng. degree in the school of Computer Science and Engineering, South China University of Technology, Guangzhou, China, in 2022. He is currently pursuing the Ph.D. degree with the School of Computer Science and Engineering, South China University of Technology, China. His research interests include deep reinforcement learning, continuous black box optimization and evolutionary computing.
+
+<br>
+<br>
+
+<img src="/images/ghs.jpg" height = "160" alt="ghs" align="left"/>
+
+Hongshu Guo (PhD, 22-26) received the B.Eng. degree in the school of Computer Science and Engineering, South China University of Technology, Guangzhou, China, in 2022. He is currently pursuing the Ph.D. degree with the School of Computer Science and Engineering, South China University of Technology, China. His research interests include deep reinforcement learning and evolutionary computing.
+
+<br>
+<br>
 
 ## Student Member
 ### Undergraduate
