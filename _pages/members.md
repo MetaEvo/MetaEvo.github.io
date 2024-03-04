@@ -16,7 +16,7 @@ redirect_from:
 ## Advisor
 
 <div  align="left">  
-<img src="/images/gyj.jpg" height = "200" alt="gyj" align="left"/>
+<img src="/images/gyj.jpg" width = "150" alt="gyj" align="left"/>
 </div>
 
 [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=zh-CN) (Senior Member, IEEE) received the B.S. and Ph.D. degrees in Computer Science from Sun Yat-sen University, China, in 2010 and 2014, respectively. She is currently a Full Professor with the School of Computer Science and Engineering, South China University of Technology, China. Her research interests include evolutionary computation, swarm intelligence, and their applications to intelligent transportation and smart city scheduling. She has published over 100 papers, including more than 40 IEEE Transactions papers, in her research area. Dr. Gong was a recipient of the Pearl River Young Scholar from the Guangdong Education Department in 2017, and the Guangdong Natural Science Funds for Distinguished Young Scholars in 2022. 
