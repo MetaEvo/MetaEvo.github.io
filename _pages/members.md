@@ -8,18 +8,18 @@ redirect_from:
   - /markdown.html
 ---
 
-# Advisor
+## Advisor
 
 [Prof. Yue-Jiao Gong](https://scholar.google.com/citations?user=Mi0Zu3IAAAAJ&hl=zh-CN)
 
-# Student Founder
+## Student Founder
 
 [Zeyuan Ma](https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN) (PhD, 22-26)
 
 Hongshu Guo (PhD, 22-26)
 
-# Student Member
-## Undergraduate
+## Student Member
+### Undergraduate
 
 | Name | Year in Group | Post-Graduation Career |
 |:--------:|:--------:|:--------|
@@ -30,7 +30,7 @@ Hongshu Guo (PhD, 22-26)
 | Yuzhi Hu    | 2023 -      | - |
 | Zechuan Huang    | 2023 -      | - |
 
-## Master
+### Master
 
 | Name | Year in Group | Post-Graduation Career |
 |:---:|:---:|:---|
@@ -39,7 +39,7 @@ Hongshu Guo (PhD, 22-26)
 | Guojun Peng   | 2023 -      | - |
 | Jianhao Liu   | 2022 -      | - |
 
-# Cooperator
+## Cooperator
 
 [Prof. Zhiguang Cao](https://scholar.google.com/citations?user=2R-cOkYAAAAJ&hl=en)
 
