@@ -51,6 +51,7 @@ Hongshu Guo (PhD, 22-26) received the B.Eng. degree in the school of Computer Sc
 |:--------:|:--------:|:--------|
 | **Jiacheng Chen**(\*co-founder) | 2021 -      | - |
 | Zhenrui Li    | 2021 - 2023 | - |
+| Kaixu Chen    | 2023 -      | - |
 | Wenjie Qiu    | 2023 -      | - |
 | Sijie Ma    | 2023 -      | - |
 | Yuzhi Hu    | 2023 -      | - |
