@@ -6,7 +6,7 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
+# Basic Site Settings 不会显示在网页上
 locale                   : "en-US"
 title                    : "GMC-DRL Team"
 title_separator          : "-"
@@ -21,17 +21,17 @@ repository               : "GMC-DRL/GMC-DRL.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gmc.png"
-  name             : "GMC-DRL Team"
+  avatar           : "gmc.png"  # 头像图片，解析自动添加image/前缀，不需要再加
+  name             : "GMC-DRL Team"  # 团队名
   pronouns         : # example: "she/her"  
-  bio              : "Research team on (Meta-)Black-Box Optimization, Deep Reinforcement Learning and Large Language Model"
-  location         : "Guangzhou, Guangdong, China"
-  employer         : "South China University of Technology"
+  bio              : "Research team on (Meta-)Black-Box Optimization, Deep Reinforcement Learning and Large Language Model"  # 显示在名字下方的简短介绍
+  location         : "Guangzhou, Guangdong, China"  # 地址
+  employer         : "South China University of Technology"  # 单位
   uri              : # URL
-  email            : "scut.crazynicolas@gmail.com" 
-
+  email            : "scut.crazynicolas@gmail.com"  # 团队负责人邮箱
+  # 以下是Arxiv scholar 推特等等的主页，如果创建了可以加上，没有就空着，就不会显示在网页上
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # URL - Update with the correct link to your profile  
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
