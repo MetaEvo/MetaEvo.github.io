@@ -6,6 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[](以上内容每个网页的内容.md文件都需要才能被识别和渲染)
+[](permalink：网页的后缀，这里是主页所以只需要/，如果是Members页就需要/memebers，与_data/navigation.yml内对应title的url对应)
+[](title：网页内容的标题，相当于在下面内容前加“#Title”)
+[](author_profile：是否显示左侧信息栏，默认为true)
+[](redirect_from：使用的一些格式，这里默认是/about/和/about.html，对于其他网页可以使用/md/和/markdown.html，如果网页使用了html相关语法（比如一些html图片格式）需要再加上/html/（参考members.md）)
+
 
 We are a research team mainly focus on the [Evolutionary Computing](), [Deep Reinforcement Learning](), [Black Box Optimization]() and [Meta Black Box Optimization](). We belong to the Computational Intelligence Lab, School of Computer Science, South China University of Technology. 
 
