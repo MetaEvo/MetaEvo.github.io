@@ -18,9 +18,9 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
-| 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**]()" *The Genetic and Evolutionary Computation Conference* (2024). to be published. |
-| 2024 | **Hongqiao Lian**, **Zeyuan Ma**, **Hongshu Guo**, et. al. "[**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**]()" *The Genetic and Evolutionary Computation Conference* (2024). to be published. |
-| 2024 | **Hongshu Guo**, **Zeyuan Ma**, **Jiacheng Chen**, et. al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://arxiv.org/abs/2403.02131)" *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (2024). to be published. |
+| 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08239.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). to be published. |
+| 2024 | **Hongqiao Lian**, **Zeyuan Ma**, **Hongshu Guo**, et. al. "[**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08242.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). to be published. |
+| 2024 | **Hongshu Guo**, **Zeyuan Ma**, **Jiacheng Chen**, et. al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://ieeexplore.ieee.org/abstract/document/10496708)" *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (2024). |
 | 2024 | **Jiacheng Chen**\*, **Zeyuan Ma**\*, et. al. "[**Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt)" *The Twelfth International Conference on Learning Representations* (ICLR 2024) |
 
 ## Exploring AGI (AIGC) in Optimization
