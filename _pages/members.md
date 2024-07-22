@@ -56,6 +56,8 @@ Hongshu Guo (PhD, 22-26) received the B.Eng. degree in the school of Computer Sc
 | Sijie Ma    | 2023 -      | - |
 | Yuzhi Hu    | 2023 -      | - |
 | Zechuan Huang    | 2023 -      | - |
+| Chen Wang    | 2024 -      | - |
+| Mei Deng    | 2024 -      | - |
 
 ### Master
 
@@ -77,4 +79,4 @@ Hongshu Guo (PhD, 22-26) received the B.Eng. degree in the school of Computer Sc
 
 <img src="/images/myn.jpg" width = "160" alt="myn" align="left" style="margin-right: 30px"/>
 
-[Yining Ma](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en&oi=ao) received the B.E. degree in computer science from the South China University of Technology, Guangzhou, China, in 2019. He is currently pursuing the Ph.D. degree with the Department of Industrial Systems Engineering and Management, National University of Singapore, Singapore. His research interests include learning to optimize, deep reinforcement learning, evolutionary computation, and combinatorial optimization.
+[Yining Ma](https://scholar.google.com/citations?user=4_VyBTsAAAAJ&hl=en&oi=ao) received the B.E. degree in computer science from the South China University of Technology, Guangzhou, China, in 2019. He obtained the Ph.D. degree with the Department of Industrial Systems Engineering and Management, National University of Singapore, Singaporein in March 2024. He joins the Laboratory for Information and Decision Systems (LIDS) at MIT as a Postdoctoral Associate in August 2024, mentored by Prof. Cathy Wu. His research interests include learning to optimize, deep reinforcement learning, evolutionary computation, and combinatorial optimization.
