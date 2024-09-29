@@ -19,7 +19,7 @@ We are an energetic team including undergraduate students, master students and p
 
 ## Contact Us
 
-You can reach out to ask questions or just chat about us! We are available on E-mail: scut.crazynicolas@gmail.com
+We are available on E-mail: scut.crazynicolas@gmail.com
 
 <br>
 <a href="https://info.flagcounter.com/ushX"><img src="https://s11.flagcounter.com/count2/ushX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
