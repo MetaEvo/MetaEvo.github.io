@@ -14,10 +14,17 @@ redirect_from:
 |:---:|:---:|
 | 2023 | **Zeyuan Ma**, et al. "[**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**](https://neurips.cc/virtual/2023/oral/73737)." *Advances in Neural Information Processing Systems 36* (NeurIPS 2023). | 
 
+## MetaBBO Surveys
+
+| Year | Paper |
+|:---:|:---:|
+| 2024 | **Zeyuan Ma**, et al. "[**Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization**](https://arxiv.org/abs/2411.00625)." arXiv preprint arXiv:2411.00625 (2024). | 
+
 ## Developing MetaBBO Approaches
 
 | Year | Paper |
 |:---:|:---:|
+| 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**](https://arxiv.org/abs/2412.07507)" arXiv preprint arXiv:2412.07507 (2024). |
 | 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Neural Exploratory Landscape Analysis**](https://arxiv.org/pdf/2408.10672)" arXiv preprint arXiv:2408.10672 (2024). |
 | 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08239.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
 | 2024 | **Hongqiao Lian**, **Zeyuan Ma**, **Hongshu Guo**, et. al. "[**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08242.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
