@@ -7,6 +7,11 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+## Daily activities
+**2024 Winter Solstice Party**
+<div align=center>
+<img src="/images/2024年冬至聚会.jpg" width="50%">
+</div>
 
 ## Student Exchange
 
