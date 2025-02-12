@@ -25,7 +25,7 @@ redirect_from:
 | Year | Paper |
 |:---:|:---:|
 | 2025 | **Hongshu Guo**\*, **Zeyuan Ma**\*, **Jiacheng Chen**, et. al. "[**ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**](https://arxiv.org/abs/2412.07507)" AAAI (2025). |
-| 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Neural Exploratory Landscape Analysis**](https://arxiv.org/pdf/2408.10672)" arXiv preprint arXiv:2408.10672 (2024). |
+| 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization**](https://openreview.net/forum?id=EEI5R89Cmv)" ICLR (2025). |
 | 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08239.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
 | 2024 | **Hongqiao Lian**, **Zeyuan Ma**, **Hongshu Guo**, et. al. "[**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08242.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
 | 2024 | **Hongshu Guo**, **Zeyuan Ma**, **Jiacheng Chen**, et. al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://ieeexplore.ieee.org/abstract/document/10496708)" *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (2024). |
