@@ -12,7 +12,7 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
-| 2023 | **Zeyuan Ma**, et al. "[**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**](https://neurips.cc/virtual/2023/oral/73737)." *Advances in Neural Information Processing Systems 36* (NeurIPS 2023). | 
+| 2023 | **Zeyuan Ma**, et al. "[**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**](https://neurips.cc/virtual/2023/oral/73737)." *Advances in Neural Information Processing Systems 36* (NeurIPS 2023. **Oral**). | 
 
 ## MetaBBO Surveys
 
@@ -27,7 +27,7 @@ redirect_from:
 | 2025 | **Zeyuan Ma** et. al. "[**Surrogate Learning in Meta-Black-Box Optimization: A Preliminary Study**](https://arxiv.org/abs/2503.18060)" *The Genetic and Evolutionary Computation Conference* (2025) |
 | 2025 | **Zeyuan Ma** et. al. "[**Accurate Peak Detection in Multimodal Optimization via Approximated Landscape Learning**](https://arxiv.org/abs/2503.18066)" *The Genetic and Evolutionary Computation Conference* (2025) |
 | 2025 | **Hongshu Guo** et. al. "[**Reinforcement Learning-based Self-adaptive Differential Evolution through Automated Landscape Feature Learning**](https://arxiv.org/abs/2503.18061)" *The Genetic and Evolutionary Computation Conference* (2025) |
-| 2025 | **Hongshu Guo**\*, **Zeyuan Ma**\*, **Jiacheng Chen**, et. al. "[**ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**](https://arxiv.org/abs/2412.07507)" AAAI (2025). |
+| 2025 | **Hongshu Guo**\*, **Zeyuan Ma**\*, **Jiacheng Chen**, et. al. "[**ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**](https://arxiv.org/abs/2412.07507)" (AAAI 2025, **Oral**). |
 | 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization**](https://openreview.net/forum?id=EEI5R89Cmv)" ICLR (2025). |
 | 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08239.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
 | 2024 | **Hongqiao Lian**, **Zeyuan Ma**, **Hongshu Guo**, et. al. "[**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08242.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
