@@ -8,13 +8,13 @@
 
 # Basic Site Settings 不会显示在网页上
 locale                   : "en-US"
-title                    : "GMC-DRL Team"
+title                    : "MetaEvo Team"
 title_separator          : "-"
-name                     : &name "GMC-DRL Team"
+name                     : &name "MetaEvo Team"
 description              : &description "Research team on (Meta-)Black-Box Optimization, Deep Rinforcement Learning and Large Language Model"
-url                      : https://GMC-DRL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://MetaEvo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "GMC-DRL/GMC-DRL.github.io"
+repository               : "MetaEvo/MetaEvo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "GMC-DRL/GMC-DRL.github.io"
 author:
   # Biographic information
   avatar           : "gmc.png"  # 头像图片，解析自动添加image/前缀，不需要再加
-  name             : "GMC-DRL Team"  # 团队名
+  name             : "MetaEvo Team"  # 团队名
   pronouns         : # example: "she/her"  
   bio              : "Research team on (Meta-)Black-Box Optimization, Deep Reinforcement Learning and Large Language Model"  # 显示在名字下方的简短介绍
   location         : "Guangzhou, Guangdong, China"  # 地址
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "GMC-DRL"
+  github           : "MetaEvo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
