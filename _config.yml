@@ -22,7 +22,7 @@ repository               : "MetaEvo/MetaEvo.github.io"
 author:
   # Biographic information
   avatar           : "metaevo.png"  # 头像图片，解析自动添加image/前缀，不需要再加
-  name             : "MetaEvo"  # 团队名
+  name             :   # 团队名
   pronouns         : # example: "she/her"  
   bio              : "Research team on (Meta-)Black-Box Optimization, Deep Reinforcement Learning and Large Language Model"  # 显示在名字下方的简短介绍
   location         : "Guangzhou, Guangdong, China"  # 地址
