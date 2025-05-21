@@ -56,7 +56,11 @@ Hongshu Guo (PhD, 22-26) received the B.Eng. degree in the school of Computer Sc
 | Yuzhi Hu    | 2023 -      | - |
 | Zechuan Huang    | 2023 -      | - |
 | Chen Wang    | 2024 -      | - |
-| Mei Deng    | 2024 -      | - |
+| ZhiYang Huang    | 2024 -      | - |
+| Mei Deng    | 2024 - 2024 | - |
+| Hao Guo    | 2025 -        | - |
+| Hepei Li    | 2025 -        | - |
+| Zixin Wang  | 2025 -        | - |
 
 ### Master
 
