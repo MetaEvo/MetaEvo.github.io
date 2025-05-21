@@ -34,5 +34,7 @@ redirect_from:
 <img src="/images/keynote 202501.jpg" width="50%">
 </div>
 
-
-
+**The 18th "Challenge Cup" Guangdong Provincial Competition —— Top Prize (2025/05)**
+<div align=center>
+<img src="/images/2025挑战杯.jpg" width="50%">
+</div>
