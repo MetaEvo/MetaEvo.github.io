@@ -38,3 +38,8 @@ redirect_from:
 <div align=center>
 <img src="/images/2025挑战杯.jpg" width="50%">
 </div>
+
+**MetaEvo core members and advisor (2025/05)**
+<div align=center>
+<img src="/images/2025MetaEvo初代.jpg" width="50%">
+</div>
