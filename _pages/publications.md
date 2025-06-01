@@ -12,6 +12,7 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
+| 2025 | **Zeyuan Ma**, et al. "[**MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**](https://arxiv.org/abs/2505.17745)" arXiv:2505.17745 |
 | 2023 | **Zeyuan Ma**, et al. "[**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**](https://neurips.cc/virtual/2023/oral/73737)." *Advances in Neural Information Processing Systems 36* (NeurIPS 2023. **Oral**). | 
 
 ## MetaBBO Surveys
@@ -24,6 +25,7 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
+| 2025 | **Hongshu Guo**, **Zeyuan Ma**, et al. "[**DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**](https://arxiv.org/abs/2505.17866)" arXiv:2505.17866 |
 | 2025 | **Zeyuan Ma** et. al. "[**Meta-Black-Box-Optimization through Offline Q-function Learning**](https://arxiv.org/abs/2505.02010)" (ICML 2025) |
 | 2025 | **Zeyuan Ma** et. al. "[**Surrogate Learning in Meta-Black-Box Optimization: A Preliminary Study**](https://arxiv.org/abs/2503.18060)" *The Genetic and Evolutionary Computation Conference* (2025) |
 | 2025 | **Zeyuan Ma** et. al. "[**Accurate Peak Detection in Multimodal Optimization via Approximated Landscape Learning**](https://arxiv.org/abs/2503.18066)" *The Genetic and Evolutionary Computation Conference* (2025) |
