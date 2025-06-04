@@ -11,6 +11,9 @@ redirect_from:
 
 | Activity | Type | Title |Date|
 |:---:|:---:|:---:|:---:|
+| NICE Student Seminar(2025-06-02)| talk| [ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2240ecc28ef3670ad2e26c710fcfd985)|2025/06|
+| NICE Student Seminar(2025-06-02)| talk| [Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2240ecc28ef3670ad2e26c710fcfd985)|2025/06|
+| NICE Student Seminar(2025-06-02)| talk| [Meta-Black-Box-Optimization through Offline Q-function Learning](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2240ecc28ef3670ad2e26c710fcfd985)|2025/06|
 |AITIME AAAI 2025 Pre-Talk| talk|[ConfigX: 基于多任务强化学习的通用黑箱优化算法配置框架](https://www.bilibili.com/video/BV17ecJeLEcL)|2025/1|
 |IEEE ESCO Taskforce Webinar| talk|[Meta-Black-Box Optimization: From Automatic Algorithm Configuration to Automatic Algorithm Generation](https://www.youtube.com/watch?v=Q2ZczYtUAr0)|2024/12|
 | AITIME ICLR 2024 Pre-Talk| talk| [Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning](https://www.bilibili.com/video/BV1qH4y1L7mb/?vd_source=49c941c3fd65d17510be677726a52bc9)|2024/03|
