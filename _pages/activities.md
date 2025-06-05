@@ -46,3 +46,9 @@ redirect_from:
 <div align=center>
 <img src="/images/2025MetaEvo初代.jpg" width="50%">
 </div>
+
+**Group Photo of all MetaEvo members (2025/06)**
+<div align=center>
+<img src="/images/2025MetaEvo合影1.jpg" width="50%">
+<img src="/images/2025MetaEvo合影2.jpg" width="50%"> 
+</div>
