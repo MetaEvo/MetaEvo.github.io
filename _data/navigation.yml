@@ -5,10 +5,12 @@ main:
     
   - title: "Repositories"
     url: /repositories/
-
-  - title: "Members"
-    url: /members/  
   
   - title: "Activities"
     url: /activities/   
+
+  - title: "Founders"
+    url: /members/  
       
+  - title: "Student Members"
+    url: /student_members/ 
