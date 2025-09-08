@@ -13,4 +13,4 @@ main:
     url: /members/  
       
   - title: "Student Members"
-    url: /student_members/ 
+    url: /studentmembers/ 
