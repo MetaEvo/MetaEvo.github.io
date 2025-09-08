@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "Members"
-    url: /members/  
-
   - title: "Publications"
     url: /publications/
-  
-  - title: "Activities"
-    url: /activities/    
     
   - title: "Repositories"
     url: /repositories/
+
+  - title: "Members"
+    url: /members/  
+  
+  - title: "Activities"
+    url: /activities/   
       
