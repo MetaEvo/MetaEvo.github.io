@@ -35,10 +35,10 @@ redirect_from:
 | Zijian Gao  | 2025 -        | - |
 
 <div  align="left">  
-<img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/>
+<img src="/images/members/default.png" width = "200" alt="lzr" align="left" style="margin-right: 30px"/>
 </div>
 
-**Guojun Peng** (Master, 2025-2028) Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.
+**Zhenrui Li** (Undergraduate, 2021 - 2023).
 
 <br>
 <br>
@@ -49,11 +49,126 @@ redirect_from:
 <br>
 <br>
 
-| <img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/> | <img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/> | <img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/> |
-|:--------:|:--------:|:-------:|
-| <details><summary>**Guojun Peng** (Master, 2025-2028)</summary><ul>Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.</ul></details> | <details><summary>**Guojun Peng** (Master, 2025-2028)</summary><ul>Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.</ul></details> | <details><summary>**Guojun Peng** (Master, 2025-2028)</summary><ul>Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.</ul></details> |
+<div  align="left">  
+<img src="/images/members/msj.jpg" width = "200" alt="msj" align="left" style="margin-right: 30px"/>
+</div>
 
-<details><summary>**Guojun Peng** (Master, 2025-2028)</summary><ul>Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.</ul></details>
+**Sijie Ma** (Undergraduate, 2023 -).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div  align="left">  
+<img src="/images/members/default.png" width = "200" alt="hyz" align="left" style="margin-right: 30px"/>
+</div>
+
+**Yuzhi Hu** (Undergraduate, 2023 -).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div  align="left">  
+<img src="/images/members/hzc.jpg" width = "200" alt="hzc" align="left" style="margin-right: 30px"/>
+</div>
+
+**Zechuan Huang** (Undergraduate, 2023 -).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div  align="left">  
+<img src="/images/members/hzy.jpg" width = "200" alt="hzy" align="left" style="margin-right: 30px"/>
+</div>
+
+**Zhiyang Huang** (Undergraduate, 2024 -).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div  align="left">  
+<img src="/images/members/gh.jpg" width = "200" alt="gh" align="left" style="margin-right: 30px"/>
+</div>
+
+**Hao Guo** (Undergraduate, 2025 -).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div  align="left">  
+<img src="/images/members/lhp.jpg" width = "200" alt="lhp" align="left" style="margin-right: 30px"/>
+</div>
+
+**Hepei Li** (Undergraduate, 2025 -).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div  align="left">  
+<img src="/images/members/wzx.jpg" width = "200" alt="wzx" align="left" style="margin-right: 30px"/>
+</div>
+
+**Zixin Wang** (Undergraduate, 2025 -).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div  align="left">  
+<img src="/images/members/zqh.jpg" width = "200" alt="zqh" align="left" style="margin-right: 30px"/>
+</div>
+
+**Qianhao Zhu** (Master, 2025 - ).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### Master
 
