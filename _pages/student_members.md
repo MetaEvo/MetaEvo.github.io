@@ -49,10 +49,11 @@ redirect_from:
 <br>
 <br>
 
-| <div  align="left">  <img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/></div> | <div  align="left">  <img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/></div> | <div  align="left">  <img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/></div> |
+| <img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/> | <img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/> | <img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/> |
 |:--------:|:--------:|:-------:|
 | <details><summary>**Guojun Peng** (Master, 2025-2028)</summary><ul>Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.</ul></details> | <details><summary>**Guojun Peng** (Master, 2025-2028)</summary><ul>Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.</ul></details> | <details><summary>**Guojun Peng** (Master, 2025-2028)</summary><ul>Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.</ul></details> |
 
+<details><summary>**Guojun Peng** (Master, 2025-2028)</summary><ul>Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.</ul></details>
 
 ### Master
 
