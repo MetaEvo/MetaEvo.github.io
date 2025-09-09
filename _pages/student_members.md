@@ -89,36 +89,18 @@ redirect_from:
 In my free time, I enjoy reading books and comics, and I previously served as the president of the anime club. I also have a passion for video editing, graphic design, and gaming.
 I am now seeking to apply my diverse skill set to new challenges in the tech industry or in an advanced research environment.
 
-<br>
-<br>
-<br>
-<br>
-
 <div  align="left">  
 <img src="/images/members/hzy.jpg" width = "200" alt="hzy" align="left" style="margin-right: 30px"/>
 </div>
 
 **Zhiyang Huang** (Undergraduate, 2024 -) Zhiyang Huang is an undergraduate student (B.Eng., 2023–2027) in the school of Computer Science and Engineering, South China University of Technology. His research focuses on meta-black-box optimization, evolutionary computation, and surrogate models. He contributed to the development of MetaBox v2.0 and has published a paper at ACM GECCO.
 
-<br>
-<br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/gh.jpg" width = "200" alt="gh" align="left" style="margin-right: 30px"/>
 </div>
 
 **Hao Guo** (Undergraduate, 2025 -) Hao Guo (Bachelor Candidate, 2023–Present) received the National Scholarship (2023–2024) and is currently pursuing the B.Eng. degree in the School of Computer Science and Engineering (Network Engineering major) at South China University of Technology, Guangzhou, China. His research interests include deep reinforcement learning and large-scale black-box optimization. Outside of academics, he enjoys playing football and is a member of the School of Computer Science and Engineering football team.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/lhp.jpg" width = "200" alt="lhp" align="left" style="margin-right: 30px"/>
