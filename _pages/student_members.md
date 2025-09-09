@@ -195,6 +195,9 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 <div  align="left">  
 <img src="/images/members/ckx.jpg" width = "200" alt="ckx" align="left" style="margin-right: 30px"/>
@@ -220,8 +223,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Jiajun Zhan** (Master, 2023 - ) Jiajun Zhan is currently a second-year master's student at South China University of Technology, Guangzhou, China. His research focuses on reinforcement learning, evolutionary computation and machine learning. He has contributed to the development of MetaBox-V2. In his spare time, he enjoys sports and listening to music.
 
-<br>
-<br>
 <br>
 <br>
 <br>
