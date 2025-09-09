@@ -93,9 +93,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/hzy.jpg" width = "200" alt="hzy" align="left" style="margin-right: 30px"/>
@@ -103,10 +100,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Zhiyang Huang** (Undergraduate, 2024 -) Zhiyang Huang is an undergraduate student (B.Eng., 2023–2027) in the school of Computer Science and Engineering, South China University of Technology. His research focuses on meta-black-box optimization, evolutionary computation, and surrogate models. He contributed to the development of MetaBox v2.0 and has published a paper at ACM GECCO.
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
