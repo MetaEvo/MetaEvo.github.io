@@ -64,7 +64,6 @@ redirect_from:
 <br>
 <br>
 <br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/default.png" width = "200" alt="hyz" align="left" style="margin-right: 30px"/>
@@ -81,8 +80,6 @@ redirect_from:
 <br>
 <br>
 <br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/hzc.jpg" width = "200" alt="hzc" align="left" style="margin-right: 30px"/>
@@ -92,9 +89,6 @@ redirect_from:
 In my free time, I enjoy reading books and comics, and I previously served as the president of the anime club. I also have a passion for video editing, graphic design, and gaming.
 I am now seeking to apply my diverse skill set to new challenges in the tech industry or in an advanced research environment.
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -117,8 +111,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/gh.jpg" width = "200" alt="gh" align="left" style="margin-right: 30px"/>
@@ -126,8 +118,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Hao Guo** (Undergraduate, 2025 -) Hao Guo (Bachelor Candidate, 2023–Present) received the National Scholarship (2023–2024) and is currently pursuing the B.Eng. degree in the School of Computer Science and Engineering (Network Engineering major) at South China University of Technology, Guangzhou, China. His research interests include deep reinforcement learning and large-scale black-box optimization. Outside of academics, he enjoys playing football and is a member of the School of Computer Science and Engineering football team.
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -152,7 +142,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/wzx.jpg" width = "200" alt="wzx" align="left" style="margin-right: 30px"/>
@@ -160,8 +149,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Zixin Wang** (Undergraduate, 2025 -) Zixin Wang is an undergraduate (23-27) in the school of Computer Science and Engineering, South China University of Technology, Guangzhou, China, and now is pursuing B.Eng. degree. His research interests include deep reinforcement learning (DRL) and large-scale optimization. Outside of academics, he is humanities-minded, with active interests including additional-language acquisition.
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -182,8 +169,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/zsq.jpg" width = "200" alt="zsq" align="left" style="margin-right: 30px"/>
@@ -191,8 +176,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Siqi Zhang** (Master, 2025 - ) I am a undergraduate student majoring in Computer Science at South China University of Technology. I have previously participated in SRP project on meta black-box optimization, and I am currently conducting research on adaptive gradient descent optimizers. I enjoy music and movies, and I love exploring the unknown. I hope to work diligently within the team and grow through the experience.
 
-<br>
-<br>
 <br>
 <br>
 <br>
