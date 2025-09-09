@@ -92,6 +92,7 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
+<br>
 
 <div  align="left">  
 <img src="/images/members/hzy.jpg" width = "200" alt="hzy" align="left" style="margin-right: 30px"/>
@@ -139,9 +140,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/zqh.jpg" width = "200" alt="zqh" align="left" style="margin-right: 30px"/>
@@ -153,8 +151,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/zsq.jpg" width = "200" alt="zsq" align="left" style="margin-right: 30px"/>
@@ -162,9 +158,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Siqi Zhang** (Master, 2025 - ) I am a undergraduate student majoring in Computer Science at South China University of Technology. I have previously participated in SRP project on meta black-box optimization, and I am currently conducting research on adaptive gradient descent optimizers. I enjoy music and movies, and I love exploring the unknown. I hope to work diligently within the team and grow through the experience.
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
