@@ -91,8 +91,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 <br>
 <br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/hzy.jpg" width = "200" alt="hzy" align="left" style="margin-right: 30px"/>
@@ -129,8 +127,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/wzx.jpg" width = "200" alt="wzx" align="left" style="margin-right: 30px"/>
@@ -138,7 +134,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Zixin Wang** (Undergraduate, 2025 -) Zixin Wang is an undergraduate (23-27) in the school of Computer Science and Engineering, South China University of Technology, Guangzhou, China, and now is pursuing B.Eng. degree. His research interests include deep reinforcement learning (DRL) and large-scale optimization. Outside of academics, he is humanities-minded, with active interests including additional-language acquisition.
 
-<br>
 <br>
 <br>
 <br>
@@ -151,7 +146,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 <br>
 <br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/zsq.jpg" width = "200" alt="zsq" align="left" style="margin-right: 30px"/>
@@ -161,8 +155,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 <br>
 <br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/hwq.jpg" width = "200" alt="hwq" align="left" style="margin-right: 30px"/>
@@ -170,8 +162,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Wenqi Huang** (Master, 2025 - ) Wenqi Huang is an undergraduate student at the School of Software Engineering, South China University of Technology in Guangzhou, China. He is currently preparing for postgraduate studies with a focused interest in the field of Artificial Intelligence. As a diligent and motivated newcomer, he is actively strengthening his research capabilities and is a valuable emerging talent within his team.
 
-<br>
-<br>
 <br>
 <br>
 
@@ -184,7 +174,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/yzp.jpg" width = "200" alt="yzp" align="left" style="margin-right: 30px"/>
@@ -192,8 +181,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Zipei Yu** (Master, 2025 - ) An ordinary university student who enjoys birdwatching, music, painting, and video games.
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -209,11 +196,7 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### Master
 
