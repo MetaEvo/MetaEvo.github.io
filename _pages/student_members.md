@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Student Members"
-permalink: /studentmembers/
+permalink: /studentmembers_beta/
 author_profile: true
 redirect_from: 
   - /md/
@@ -33,6 +33,12 @@ redirect_from:
 | Yuxin Wu  | 2025 -        | - |
 | Zipei Yu  | 2025 -        | - |
 | Zijian Gao  | 2025 -        | - |
+
+<div  align="left">  
+<img src="/images/members/pgj.jpg" width = "200" alt="pgj" align="left" style="margin-right: 30px"/>
+</div>
+
+**Guojun Peng** (Master, 2025-2028) Undergraduate degree in Computer Science and Technology at the School of Computer Science and Engineering, South China University of Technology. Participated in the development and documentation of MetaBox (v1, v2) as a team member. My hobbies are running and playing basketball.
 
 ### Master
 
