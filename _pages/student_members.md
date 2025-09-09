@@ -30,7 +30,6 @@ redirect_from:
 <br>
 <br>
 <br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/msj.jpg" width = "200" alt="msj" align="left" style="margin-right: 30px"/>
@@ -38,7 +37,6 @@ redirect_from:
 
 **Sijie Ma** (Undergraduate, 2023 -) I am Sijie Ma, a senior student at South China University of Technology. I love Domino’s, McDonald’s, cycling, running, fishing, and origami.
 
-<br>
 <br>
 <br>
 <br>
