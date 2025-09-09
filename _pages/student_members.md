@@ -13,8 +13,7 @@ redirect_from:
 <img src="/images/scut.jpg" width = "400" alt="scut" align=center />
 </div>
 
-## Student Member
-### Undergraduate
+# Undergraduate
 
 <div  align="left">  
 <img src="/images/members/default.png" width = "200" alt="lzr" align="left" style="margin-right: 30px"/>
@@ -181,13 +180,8 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-### Master
+# Master
 
 <div  align="left">  
 <img src="/images/members/default.png" width = "200" alt="ljh" align="left" style="margin-right: 30px"/>
@@ -195,6 +189,8 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Jianhao Liu** (Master, 2022 - 2025).
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -219,8 +215,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 <br>
 <br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/zjj.jpg" width = "200" alt="zjj" align="left" style="margin-right: 30px"/>
@@ -228,6 +222,10 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Jiajun Zhan** (Master, 2023 - ) Jiajun Zhan is currently a second-year master's student at South China University of Technology, Guangzhou, China. His research focuses on reinforcement learning, evolutionary computation and machine learning. He has contributed to the development of MetaBox-V2. In his spare time, he enjoys sports and listening to music.
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -255,7 +253,7 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 
-### PhD
+# PhD
 
 
 <div  align="left">  
