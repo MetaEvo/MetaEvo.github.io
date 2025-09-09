@@ -213,8 +213,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Hongqiao Lian** (Master, 2023 - ) I am Hongqiao Lian, from South China University of Technology, currently pursuing a Master's degree in Computer Science under the supervision of Professor Yue-Jiao Gong. My primary research focuses on optimization algorithms that integrate reinforcement learning, deep learning, and evolutionary computation, particularly for solving multimodal optimization problems. My main achievements include: using reinforcement learning to adaptively select different evolutionary strategies for evolutionary algorithms, thereby enhancing their flexibility; and employing neural networks to approximate the function landscape, obtaining global landscape information to assist the subsequent search of evolutionary strategies.
 
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/zjj.jpg" width = "200" alt="zjj" align="left" style="margin-right: 30px"/>
@@ -222,6 +220,10 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Jiajun Zhan** (Master, 2023 - ) Jiajun Zhan is currently a second-year master's student at South China University of Technology, Guangzhou, China. His research focuses on reinforcement learning, evolutionary computation and machine learning. He has contributed to the development of MetaBox-V2. In his spare time, he enjoys sports and listening to music.
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
