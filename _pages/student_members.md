@@ -48,6 +48,11 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div  align="left">  
 <img src="/images/members/msj.jpg" width = "200" alt="msj" align="left" style="margin-right: 30px"/>
@@ -63,6 +68,11 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div  align="left">  
 <img src="/images/members/default.png" width = "200" alt="hyz" align="left" style="margin-right: 30px"/>
@@ -78,6 +88,11 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div  align="left">  
 <img src="/images/members/hzc.jpg" width = "200" alt="hzc" align="left" style="margin-right: 30px"/>
@@ -93,6 +108,11 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div  align="left">  
 <img src="/images/members/hzy.jpg" width = "200" alt="hzy" align="left" style="margin-right: 30px"/>
@@ -108,6 +128,11 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div  align="left">  
 <img src="/images/members/gh.jpg" width = "200" alt="gh" align="left" style="margin-right: 30px"/>
@@ -123,6 +148,11 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div  align="left">  
 <img src="/images/members/lhp.jpg" width = "200" alt="lhp" align="left" style="margin-right: 30px"/>
@@ -138,6 +168,11 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div  align="left">  
 <img src="/images/members/wzx.jpg" width = "200" alt="wzx" align="left" style="margin-right: 30px"/>
@@ -153,6 +188,11 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 
 <div  align="left">  
 <img src="/images/members/zqh.jpg" width = "200" alt="zqh" align="left" style="margin-right: 30px"/>
@@ -168,7 +208,109 @@ redirect_from:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
+
+<div  align="left">  
+<img src="/images/members/zsq.jpg" width = "200" alt="zsq" align="left" style="margin-right: 30px"/>
+</div>
+
+**Siqi Zhang** (Master, 2025 - ).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div  align="left">  
+<img src="/images/members/hwq.jpg" width = "200" alt="hwq" align="left" style="margin-right: 30px"/>
+</div>
+
+**Wenqi Huang** (Master, 2025 - ).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div  align="left">  
+<img src="/images/members/wyx.jpg" width = "200" alt="wyx" align="left" style="margin-right: 30px"/>
+</div>
+
+**Yuxin Wu** (Master, 2025 - ).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div  align="left">  
+<img src="/images/members/yzp.jpg" width = "200" alt="yzp" align="left" style="margin-right: 30px"/>
+</div>
+
+**Zipei Yu** (Master, 2025 - ).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div  align="left">  
+<img src="/images/members/gzj.jpg" width = "200" alt="gzj" align="left" style="margin-right: 30px"/>
+</div>
+
+**Zijian Gao** (Master, 2025 - ).
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Master
 
