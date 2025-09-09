@@ -50,9 +50,6 @@ redirect_from:
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/msj.jpg" width = "200" alt="msj" align="left" style="margin-right: 30px"/>
@@ -68,11 +65,6 @@ redirect_from:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/default.png" width = "200" alt="hyz" align="left" style="margin-right: 30px"/>
@@ -80,8 +72,6 @@ redirect_from:
 
 **Yuzhi Hu** (Undergraduate, 2023 -).
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -112,9 +102,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/hzy.jpg" width = "200" alt="hzy" align="left" style="margin-right: 30px"/>
@@ -132,9 +119,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/gh.jpg" width = "200" alt="gh" align="left" style="margin-right: 30px"/>
@@ -152,9 +136,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/lhp.jpg" width = "200" alt="lhp" align="left" style="margin-right: 30px"/>
@@ -172,9 +153,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/wzx.jpg" width = "200" alt="wzx" align="left" style="margin-right: 30px"/>
@@ -191,10 +169,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/zqh.jpg" width = "200" alt="zqh" align="left" style="margin-right: 30px"/>
@@ -210,11 +184,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/zsq.jpg" width = "200" alt="zsq" align="left" style="margin-right: 30px"/>
@@ -231,10 +200,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/hwq.jpg" width = "200" alt="hwq" align="left" style="margin-right: 30px"/>
@@ -251,10 +216,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/wyx.jpg" width = "200" alt="wyx" align="left" style="margin-right: 30px"/>
@@ -291,9 +252,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/gzj.jpg" width = "200" alt="gzj" align="left" style="margin-right: 30px"/>
@@ -301,9 +259,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Zijian Gao** (Master, 2025 - ) Just starting out in programming, exploring C++ and small projects. Check out my work here: https://github.com/T2ek1ng0.
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
