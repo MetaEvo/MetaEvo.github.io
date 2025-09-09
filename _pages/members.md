@@ -44,9 +44,9 @@ Hongshu Guo (PhD, 22-26) received the B.Eng. degree in the school of Computer Sc
 <br>
 <br>
 
-<img src="/images/ghs.jpg" width = "160" alt="ghs" align="left" style="margin-right: 30px"/>
+<img src="/images/members/cjc.jpg" width = "160" alt="cjc" align="left" style="margin-right: 30px"/>
 
-Jiacheng Chen
+Jiacheng Chen is currently an PhD Student at the CSE department of the Chinese University of Hong Kong (CUHK), advised by Professor Yu Cheng and Weiyang Liu. He received bachelor degree from South China University of Technology (SCUT). He also spent time doing internship at Shanghai AILab and Minimax. His current research interests include post training and reasoning augmentation in Large Language Models. He did some research in meta black box optimization when he was in SCUT, working closely with the MetaEvo group. 
 
 <br>
 <br>
