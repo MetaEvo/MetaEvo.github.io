@@ -103,6 +103,8 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <div  align="left">  
 <img src="/images/members/gh.jpg" width = "200" alt="gh" align="left" style="margin-right: 30px"/>
@@ -150,7 +152,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/zsq.jpg" width = "200" alt="zsq" align="left" style="margin-right: 30px"/>
@@ -173,11 +174,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <div  align="left">  
 <img src="/images/members/wyx.jpg" width = "200" alt="wyx" align="left" style="margin-right: 30px"/>
@@ -189,15 +185,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 <div  align="left">  
 <img src="/images/members/yzp.jpg" width = "200" alt="yzp" align="left" style="margin-right: 30px"/>
@@ -205,9 +192,6 @@ I am now seeking to apply my diverse skill set to new challenges in the tech ind
 
 **Zipei Yu** (Master, 2025 - ) An ordinary university student who enjoys birdwatching, music, painting, and video games.
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
