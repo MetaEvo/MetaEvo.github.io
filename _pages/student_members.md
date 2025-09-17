@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Student Members"
-permalink: /studentmembers_beta/
+permalink: /studentmembers/
 author_profile: true
 redirect_from: 
   - /md/
