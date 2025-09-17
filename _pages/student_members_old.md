@@ -1,13 +1,13 @@
----
-layout: archive
-title: "Student Members"
-permalink: /studentmembers/
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
-  - /html/
----
+//---
+//layout: archive
+//title: "Student Members"
+//permalink: /studentmembers/
+//author_profile: true
+//redirect_from: 
+//  - /md/
+//  - /markdown.html
+//  - /html/
+//---
 
 <div  align="center">    
 <img src="/images/scut.jpg" width = "400" alt="scut" align=center />
