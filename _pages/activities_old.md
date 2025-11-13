@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Activities"
 permalink: /activities/
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
----
+--- -->
 ## Talks
 
 | Activity | Type | Title |Date|

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Student Members"
 permalink: /studentmembers/
@@ -7,7 +7,7 @@ redirect_from:
   - /md/
   - /markdown.html
   - /html/
----
+--- -->
 
 <div  align="center">    
 <img src="/images/scut.jpg" width = "400" alt="scut" align=center />
