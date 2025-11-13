@@ -13,8 +13,8 @@ redirect_from:
 <img src="/images/scut.jpg" width = "400" alt="scut" align=center />
 </div>
 
-# PhD
-
+<!-- # PhD -->
+<h2>PhD</h2>
 <!-- 第一个人 -->
 <div class="profile-container">
   <img src="/images/members/qwj.jpg" alt="qwj" class="profile-img">
@@ -23,8 +23,8 @@ redirect_from:
   </div>
 </div>
 
-# Master
-
+<!-- # Master -->
+<h2>Master</h2>
 <!-- 第一个人 -->
 <div class="profile-container">
   <img src="/images/members/ckx.jpg" alt="Kaixu Chen" class="profile-img">
@@ -73,8 +73,8 @@ redirect_from:
   </div>
 </div>
 
-# Undergraduate
-
+<!-- # Undergraduate -->
+<h2>Undergraduate</h2>
 <!-- 第一个人 -->
 <div class="profile-container">
   <img src="/images/members/hzc.jpg" alt="Zechuan Huang" class="profile-img">
