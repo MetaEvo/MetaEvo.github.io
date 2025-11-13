@@ -27,28 +27,178 @@ redirect_from:
 | Jiacheng Chen | 2024/06 - 2024/09 |[Computing + Mathematical Sciences (CMS) Department, Caltech](https://www.cms.caltech.edu/) |
 
 ## Gallery
-**2024 Winter Solstice Party**
-<div align=center>
-<img src="/images/2024年冬至聚会.jpg" width="50%">
-</div>
 
-**Talk at University of Otago (2025/01)**
-<div align=center>
-<img src="/images/keynote 202501.jpg" width="50%">
-</div>
+<section class="team-gallery">
+    <div class="gallery-container">
+        <!-- 19届挑战杯 -->
+        <div class="gallery-item">
+            <div class="gallery-images">
+                <img src="/images/19届挑战杯1.jpg" alt="19届挑战杯1" class="main-img">
+                <img src="/images/19届挑战杯2.jpg" alt="19届挑战杯2" class="secondary-img">
+            </div>
+            <div class="gallery-info">
+                <h3>参加19届“挑战杯”全国大学生课外学术科技作品竞赛(2025/11)</h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- LEAD -->
+        <div class="gallery-item">
+            <div class="gallery-images">
+                <img src="/images/lead.jpg" alt="lead" class="main-img">
+            </div>
+            <div class="gallery-info">
+                <h3>组织LEAD 2025 Workshop——学习辅助的进化算法设计论坛（2025/09）</h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- gecco2025 -->
+        <div class="gallery-item">
+            <div class="gallery-images">
+                <img src="/images/2025gecco.jpg" alt="2025gecco1" class="main-img">
+                <img src="/images/2025gecco2.jpg" alt="2025gecco2" class="secondary-img">
+            </div>
+            <div class="gallery-info">
+                <h3>成员参加2025GECCO(2025/07)</h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- Group Photo of all MetaEvo members (2025/06) -->
+        <div class="gallery-item">
+            <div class="gallery-images">
+                <img src="/images/2025MetaEvo合影1.jpg" alt="MetaEvo members" class="main-img">
+                <img src="/images/2025MetaEvo合影2.jpg" alt="MetaEvo members" class="main-img">
+            </div>
+            <div class="gallery-info">
+                <h3>Group Photo of all MetaEvo members (2025/06)</h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- MetaEvo core members and advisor (2025/05) -->
+        <div class="gallery-item">
+            <div class="gallery-images">
+                <img src="/images/2025MetaEvo初代.jpg" alt="MetaEvo core members and advisor" class="main-img">
+            </div>
+            <div class="gallery-info">
+                <h3>MetaEvo core members and advisor (2025/05)</h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- The 18th "Challenge Cup" Guangdong Provincial Competition —— Top Prize (2025/05) -->
+        <div class="gallery-item">
+            <div class="gallery-images">
+                <img src="/images/2025挑战杯.jpg" alt="Challenge Cup" class="main-img">
+            </div>
+            <div class="gallery-info">
+                <h3>The 18th "Challenge Cup" Guangdong Provincial Competition —— Top Prize (2025/05)</h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- Talk at University of Otago (2025/01) -->
+        <div class="gallery-item">
+            <div class="gallery-images">
+                <img src="/images/keynote 202501.jpg" alt="Talk at University of Otago (2025/01)" class="main-img">
+            </div>
+            <div class="gallery-info">
+                <h3>Talk at University of Otago (2025/01)</h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- 2024年冬至聚会 -->
+        <div class="gallery-item">
+            <div class="gallery-images">
+                <img src="/images/2024年冬至聚会.jpg" alt="2024年冬至聚会" class="main-img">
+            </div>
+            <div class="gallery-info">
+                <h3>2024年冬至聚会</h3>
+                <p></p>
+            </div>
+        </div>
+    </div>
+</section>
 
-**The 18th "Challenge Cup" Guangdong Provincial Competition —— Top Prize (2025/05)**
-<div align=center>
-<img src="/images/2025挑战杯.jpg" width="50%">
-</div>
+<style>
+.team-gallery {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 20px;
+}
 
-**MetaEvo core members and advisor (2025/05)**
-<div align=center>
-<img src="/images/2025MetaEvo初代.jpg" width="50%">
-</div>
+.team-gallery h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    color: #2c3e50;
+    font-size: 2.2em;
+    font-weight: 600;
+}
 
-**Group Photo of all MetaEvo members (2025/06)**
-<div align=center>
-<img src="/images/2025MetaEvo合影1.jpg" width="50%">
-<img src="/images/2025MetaEvo合影2.jpg" width="50%"> 
-</div>
+.gallery-container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.gallery-item {
+    display: flex;
+    gap: 30px;
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.gallery-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+}
+
+.gallery-images {
+    display: flex;
+    gap: 15px;
+    flex-shrink: 0;
+}
+
+.main-img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid #f8f9fa;
+}
+
+.secondary-img {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid #f8f9fa;
+}
+
+/* 单张图片时的样式 */
+.gallery-images:has(.main-img:only-child) .main-img {
+    width: 400px;
+    height: 250px;
+}
+
+.gallery-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gallery-info h3 {
+    margin: 0 0 15px 0;
+    color: #2c3e50;
+    font-size: 1.4em;
+    font-weight: 600;
+}
+
+.gallery-info p {
+    color: #555;
+    line-height: 1.6;
+    margin: 0;
+    font-size: 1em;
+}
+
+</style>
