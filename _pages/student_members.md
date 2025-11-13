@@ -8,12 +8,12 @@ redirect_from:
   - /markdown.html
   - /html/
 ---
-
-<div  align="center">    
+<div  align="center">  
 <img src="/images/scut.jpg" width = "400" alt="scut" align=center />
 </div>
 
 <!-- # PhD -->
+
 <h2>PhD</h2>
 <!-- 第一个人 -->
 <div class="profile-container">
@@ -23,7 +23,12 @@ redirect_from:
   </div>
 </div>
 
+<!-- 清除浮动 -->
+
+<div style="clear: both;"></div>
+
 <!-- # Master -->
+
 <h2>Master</h2>
 <!-- 第一个人 -->
 <div class="profile-container">
@@ -34,6 +39,7 @@ redirect_from:
 </div>
 
 <!-- 第二个人 -->
+
 <div class="profile-container">
   <img src="/images/members/pgj.jpg" alt="Guojun Peng" class="profile-img">
   <div class="profile-content">
@@ -42,6 +48,7 @@ redirect_from:
 </div>
 
 <!-- 第三个人 -->
+
 <div class="profile-container">
   <img src="/images/members/wc.jpg" alt="Chen Wang" class="profile-img">
   <div class="profile-content">
@@ -50,6 +57,7 @@ redirect_from:
 </div>
 
 <!-- 第四个人 -->
+
 <div class="profile-container">
   <img src="/images/members/default.png" alt="Jianhao Liu" class="profile-img">
   <div class="profile-content">
@@ -58,6 +66,7 @@ redirect_from:
 </div>
 
 <!-- 第五个人 -->
+
 <div class="profile-container">
   <img src="/images/members/lhq.jpg" alt="Hongqiao Lian" class="profile-img">
   <div class="profile-content">
@@ -66,6 +75,7 @@ redirect_from:
 </div>
 
 <!-- 第六个人 -->
+
 <div class="profile-container">
   <img src="/images/members/zjj.jpg" alt="Jiajun Zhan" class="profile-img">
   <div class="profile-content">
@@ -73,7 +83,12 @@ redirect_from:
   </div>
 </div>
 
+<!-- 清除浮动 -->
+
+<div style="clear: both;"></div>
+
 <!-- # Undergraduate -->
+
 <h2>Undergraduate</h2>
 <!-- 第一个人 -->
 <div class="profile-container">
@@ -86,6 +101,7 @@ redirect_from:
 </div>
 
 <!-- 第二个人 -->
+
 <div class="profile-container">
   <img src="/images/members/hzy.jpg" alt="Zhiyang Huang" class="profile-img">
   <div class="profile-content">
@@ -94,6 +110,7 @@ redirect_from:
 </div>
 
 <!-- 第三个人 -->
+
 <div class="profile-container">
   <img src="/images/members/gh.jpg" alt="Hao Guo" class="profile-img">
   <div class="profile-content">
@@ -102,6 +119,7 @@ redirect_from:
 </div>
 
 <!-- 第四个人 -->
+
 <div class="profile-container">
   <img src="/images/members/lhp.jpg" alt="Hepei Li" class="profile-img">
   <div class="profile-content">
@@ -110,6 +128,7 @@ redirect_from:
 </div>
 
 <!-- 第五个人 -->
+
 <div class="profile-container">
   <img src="/images/members/wzx.jpg" alt="Zixin Wang" class="profile-img">
   <div class="profile-content">
@@ -118,6 +137,7 @@ redirect_from:
 </div>
 
 <!-- 第六个人 -->
+
 <div class="profile-container">
   <img src="/images/members/wyx.jpg" alt="Yuxin Wu" class="profile-img">
   <div class="profile-content">
@@ -126,6 +146,7 @@ redirect_from:
 </div>
 
 <!-- 第七个人 -->
+
 <div class="profile-container">
   <img src="/images/members/default.png" alt="Zhenrui Li" class="profile-img">
   <div class="profile-content">
@@ -134,6 +155,7 @@ redirect_from:
 </div>
 
 <!-- 第八个人 -->
+
 <div class="profile-container">
   <img src="/images/members/msj.jpg" alt="Sijie Ma" class="profile-img">
   <div class="profile-content">
@@ -142,6 +164,7 @@ redirect_from:
 </div>
 
 <!-- 第九个人 -->
+
 <div class="profile-container">
   <img src="/images/members/default.png" alt="Yuzhi Hu" class="profile-img">
   <div class="profile-content">
@@ -150,6 +173,7 @@ redirect_from:
 </div>
 
 <!-- 第十个人 -->
+
 <div class="profile-container">
   <img src="/images/members/zqh.jpg" alt="Qianhao Zhu" class="profile-img">
   <div class="profile-content">
@@ -158,6 +182,7 @@ redirect_from:
 </div>
 
 <!-- 第十一个人 -->
+
 <div class="profile-container">
   <img src="/images/members/zsq.jpg" alt="Siqi Zhang" class="profile-img">
   <div class="profile-content">
@@ -166,6 +191,7 @@ redirect_from:
 </div>
 
 <!-- 第十二个人 -->
+
 <div class="profile-container">
   <img src="/images/members/hwq.jpg" alt="Wenqi Huang" class="profile-img">
   <div class="profile-content">
@@ -174,6 +200,7 @@ redirect_from:
 </div>
 
 <!-- 第十三个人 -->
+
 <div class="profile-container">
   <img src="/images/members/yzp.jpg" alt="Zipei Yu" class="profile-img">
   <div class="profile-content">
@@ -182,6 +209,7 @@ redirect_from:
 </div>
 
 <!-- 第十四个人 -->
+
 <div class="profile-container">
   <img src="/images/members/gzj.jpg" alt="Zijian Gao" class="profile-img">
   <div class="profile-content">
@@ -189,8 +217,8 @@ redirect_from:
   </div>
 </div>
 
-
 <!-- css style -->
+
 <style>
 .profile-container {
   display: flex;
