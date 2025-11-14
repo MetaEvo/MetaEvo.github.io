@@ -41,7 +41,16 @@ redirect_from:
             </div>
         </div>
         <!-- LEAD -->
-        <div class="gallery-item">
+        <!-- <div class="gallery-item">
+            <div class="gallery-images">
+                <img src="/images/lead.jpg" alt="lead" class="main-img">
+            </div>
+            <div class="gallery-info">
+                <h3>Organizing LEAD 2025: The Workshop on Learning-assisted Evolutionary Algorithm Design(2025/09)</h3>
+                <p></p>
+            </div>
+        </div> -->
+        <div class="gallery-item" onclick="window.open('https://sites.google.com/view/leadworkshop2025/%E4%B8%BB%E9%A1%B5?authuser=0', '_blank')" style="cursor: pointer;">
             <div class="gallery-images">
                 <img src="/images/lead.jpg" alt="lead" class="main-img">
             </div>
