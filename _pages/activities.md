@@ -33,11 +33,10 @@ redirect_from:
         <!-- 19届挑战杯 -->
         <div class="gallery-item">
             <div class="gallery-images">
-                <img src="/images/19届挑战杯1.jpg" alt="19届挑战杯1" class="main-img">
-                <img src="/images/19届挑战杯2.jpg" alt="19届挑战杯2" class="secondary-img">
+                <img src="/images/19届挑战杯1.jpg" alt="19th Challenge Cup" class="main-img">
             </div>
             <div class="gallery-info">
-                <h3>参加19届“挑战杯”全国大学生课外学术科技作品竞赛(2025/11)</h3>
+                <h3>Participating in the 19th "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works Competition(2025/11)</h3>
                 <p></p>
             </div>
         </div>
@@ -47,7 +46,7 @@ redirect_from:
                 <img src="/images/lead.jpg" alt="lead" class="main-img">
             </div>
             <div class="gallery-info">
-                <h3>组织LEAD 2025 Workshop——学习辅助的进化算法设计论坛（2025/09）</h3>
+                <h3>Organizing LEAD 2025: The Workshop on Learning-assisted Evolutionary Algorithm Design(2025/09)</h3>
                 <p></p>
             </div>
         </div>
@@ -55,17 +54,15 @@ redirect_from:
         <div class="gallery-item">
             <div class="gallery-images">
                 <img src="/images/2025gecco.jpg" alt="2025gecco1" class="main-img">
-                <img src="/images/2025gecco2.jpg" alt="2025gecco2" class="secondary-img">
             </div>
             <div class="gallery-info">
-                <h3>成员参加2025GECCO(2025/07)</h3>
+                <h3>Members attended GECCO 2025 and gave presentations.(2025/07)</h3>
                 <p></p>
             </div>
         </div>
         <!-- Group Photo of all MetaEvo members (2025/06) -->
         <div class="gallery-item">
             <div class="gallery-images">
-                <img src="/images/2025MetaEvo合影1.jpg" alt="MetaEvo members" class="main-img">
                 <img src="/images/2025MetaEvo合影2.jpg" alt="MetaEvo members" class="main-img">
             </div>
             <div class="gallery-info">
@@ -86,7 +83,7 @@ redirect_from:
         <!-- The 18th "Challenge Cup" Guangdong Provincial Competition —— Top Prize (2025/05) -->
         <div class="gallery-item">
             <div class="gallery-images">
-                <img src="/images/2025挑战杯.jpg" alt="Challenge Cup" class="main-img">
+                <img src="/images/2025挑战杯.jpg" alt="18th Challenge Cup" class="main-img">
             </div>
             <div class="gallery-info">
                 <h3>The 18th "Challenge Cup" Guangdong Provincial Competition —— Top Prize (2025/05)</h3>
@@ -106,10 +103,10 @@ redirect_from:
         <!-- 2024年冬至聚会 -->
         <div class="gallery-item">
             <div class="gallery-images">
-                <img src="/images/2024年冬至聚会.jpg" alt="2024年冬至聚会" class="main-img">
+                <img src="/images/2024年冬至聚会.jpg" alt="Winter Solstice Gathering 2024" class="main-img">
             </div>
             <div class="gallery-info">
-                <h3>2024年冬至聚会</h3>
+                <h3>Team members Winter Solstice Gathering 2024</h3>
                 <p></p>
             </div>
         </div>
