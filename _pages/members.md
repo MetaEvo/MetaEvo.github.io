@@ -41,9 +41,10 @@ redirect_from:
 </div>
 
 <div class="profile-container">
-  <img src="/images/members/cjc.jpg" alt="Jiacheng Chen" class="profile-img">
+  <img src="/images/members/qwj.jpg" alt="Wenjie Qiu" class="profile-img">
   <div class="profile-content">
-    <strong>Jiacheng Chen</strong> is currently an PhD Student at the CSE department of the Chinese University of Hong Kong (CUHK), advised by Professor Yu Cheng and Weiyang Liu. He received bachelor degree from South China University of Technology (SCUT). He also spent time doing internship at Shanghai AILab and Minimax. His current research interests include post training and reasoning augmentation in Large Language Models. He did some research in meta black box optimization when he was in SCUT, working closely with the MetaEvo group.
+    <strong>Wenjie Qiu</strong> （PhD, 25-） received the B.Sc. degree (Strengthening Basic Subjects Plan, Top 1 in major) from the School of Mathematics, South China University of Technology (SCUT), Guangzhou, China, in 2025. He is currently pursuing the Ph.D. degree with the School of Computer Science and Engineering, South China University of Technology, China. His research interests include Meta Black-Box Optimization（MetaBBO）and Large-scale Global Optimization（LSGO）.
+    In his free time, he enjoys traveling and playing badminton (he is always up for a friendly match).
   </div>
 </div>
 

@@ -17,11 +17,12 @@ redirect_from:
 <h2>PhD</h2>
 <!-- 第一个人 -->
 <div class="profile-container">
-  <img src="/images/members/qwj.jpg" alt="qwj" class="profile-img">
+  <img src="/images/members/cjc.jpg" alt="Jiacheng Chen" class="profile-img">
   <div class="profile-content">
-    <strong>Wenjie Qiu</strong> (PhD, 2023 - ) Wenjie Qiu, a Ph.D. student (2025 cohort) at the School of Computer Science and Engineering, South China University of Technology. His research focuses on meta black-box optimization. He enjoys traveling and badminton (always up for a friendly match).
+    <strong>Jiacheng Chen</strong> is currently an PhD Student at the CSE department of the Chinese University of Hong Kong (CUHK), advised by Professor Yu Cheng and Weiyang Liu. He received bachelor degree from South China University of Technology (SCUT). He also spent time doing internship at Shanghai AILab and Minimax. His current research interests include post training and reasoning augmentation in Large Language Models. He did some research in meta black box optimization when he was in SCUT, working closely with the MetaEvo group.
   </div>
 </div>
+
 
 <!-- 清除浮动 -->
 
