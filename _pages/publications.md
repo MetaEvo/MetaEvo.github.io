@@ -12,6 +12,7 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
+| 2026 | **Chen Wang**, **Zeyuan Ma**, et al. "[**Instance Generation for Meta-Black-Box Optimization through Latent Space Reverse Engineering**](https://arxiv.org/abs/2509.15810)" *The 40th Annual AAAI Conference on Artificial Intelligence* (AAAI 2026) |
 | 2025 | **Zeyuan Ma**, et al. "[**MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**](https://arxiv.org/abs/2505.17745)" *Advances in Neural Information Processing Systems 38* (NeurIPS 2025) |
 | 2023 | **Zeyuan Ma**, et al. "[**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**](https://neurips.cc/virtual/2023/oral/73737)." *Advances in Neural Information Processing Systems 36* (NeurIPS 2023. **Oral**). | 
 
@@ -25,7 +26,6 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
-| 2025 | **Chen Wang**, et al. "[**Diverse-BBO: Instance Generation for Meta-Black-Box Optimization through Latent Space Reverse Engineering**](https://arxiv.org/abs/2509.15810)" *The 40th Annual AAAI Conference on Artificial Intelligence* (AAAI 2026) |
 | 2025 | **Hongshu Guo**, **Zeyuan Ma**, et al. "[**DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**](https://arxiv.org/abs/2505.17866)" *Advances in Neural Information Processing Systems 38* (NeurIPS 2025) |
 | 2025 | **Zeyuan Ma** et. al. "[**Meta-Black-Box-Optimization through Offline Q-function Learning**](https://arxiv.org/abs/2505.02010)" (ICML 2025) |
 | 2025 | **Zeyuan Ma** et. al. "[**Surrogate Learning in Meta-Black-Box Optimization: A Preliminary Study**](https://arxiv.org/abs/2503.18060)" *The Genetic and Evolutionary Computation Conference* (2025) |
@@ -39,10 +39,11 @@ redirect_from:
 | 2024 | **Hongshu Guo**, **Zeyuan Ma**, **Jiacheng Chen**, et. al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://ieeexplore.ieee.org/abstract/document/10496708)" *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (2024). |
 | 2024 | **Jiacheng Chen**\*, **Zeyuan Ma**\*, et. al. "[**Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt)" *The Twelfth International Conference on Learning Representations* (ICLR 2024) |
 
-## Exploring AGI (AIGC) in Optimization
+## Exploring AGI & Optimization
 
 | Year | Paper |
 |:---:|:---:|
+| 2025 | **Zeyuan Ma**, et. al. "[**Evolutionary System 2 Reasoning: An Empirical Proof**](https://arxiv.org/abs/2512.05760)" *Journal of Intelligent and Sustainable Systems* (2025) |
 | 2024 | **Zeyuan Ma**, **Hongshu Guo**, **Jiacheng Chen**, et. al. "[**LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**](https://arxiv.org/abs/2403.01131)" |
 
 ## Other Topics in Optimization
