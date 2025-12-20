@@ -26,31 +26,40 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
-| 2025 | **Hongshu Guo**, **Zeyuan Ma**, et al. "[**DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**](https://arxiv.org/abs/2505.17866)" *Advances in Neural Information Processing Systems 38* (NeurIPS 2025) |
-| 2025 | **Zeyuan Ma** et. al. "[**Meta-Black-Box-Optimization through Offline Q-function Learning**](https://arxiv.org/abs/2505.02010)" (ICML 2025) |
-| 2025 | **Zeyuan Ma** et. al. "[**Surrogate Learning in Meta-Black-Box Optimization: A Preliminary Study**](https://arxiv.org/abs/2503.18060)" *The Genetic and Evolutionary Computation Conference* (2025) |
-| 2025 | **Zeyuan Ma** et. al. "[**Accurate Peak Detection in Multimodal Optimization via Approximated Landscape Learning**](https://arxiv.org/abs/2503.18066)" *The Genetic and Evolutionary Computation Conference* (2025) |
-| 2025 | **Hongshu Guo** et. al. "[**Reinforcement Learning-based Self-adaptive Differential Evolution through Automated Landscape Feature Learning**](https://arxiv.org/abs/2503.18061)" *The Genetic and Evolutionary Computation Conference* (2025) |
+| 2025 | **Hongshu Guo**, **Zeyuan Ma**, et al. "[**DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**](https://arxiv.org/abs/2505.17866)" *Advances in Neural Information Processing Systems 38* (NeurIPS 2025). |
+| 2025 | **Zeyuan Ma** et. al. "[**Meta-Black-Box-Optimization through Offline Q-function Learning**](https://arxiv.org/abs/2505.02010)" (ICML 2025). |
+| 2025 | **Zeyuan Ma** et. al. "[**Surrogate Learning in Meta-Black-Box Optimization: A Preliminary Study**](https://arxiv.org/abs/2503.18060)" *The Genetic and Evolutionary Computation Conference* (2025). |
+| 2025 | **Zeyuan Ma** et. al. "[**Accurate Peak Detection in Multimodal Optimization via Approximated Landscape Learning**](https://arxiv.org/abs/2503.18066)" *The Genetic and Evolutionary Computation Conference* (2025). |
+| 2025 | **Hongshu Guo** et. al. "[**Reinforcement Learning-based Self-adaptive Differential Evolution through Automated Landscape Feature Learning**](https://arxiv.org/abs/2503.18061)" *The Genetic and Evolutionary Computation Conference* (2025). |
 | 2025 | **Hongshu Guo**\*, **Zeyuan Ma**\*, **Jiacheng Chen**, et. al. "[**ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**](https://arxiv.org/abs/2412.07507)" (AAAI 2025, **Oral**). |
-| 2024 | **Hongshu Guo**, **Wenjie Qiu**, **Zeyuan Ma** et. al. "[**Advancing CMA-ES with Learning-Based Cooperative Coevolution for Scalable Optimization**](https://arxiv.org/abs/2504.17578)" arXiv:2504.17578|
+| 2024 | **Hongshu Guo**, **Wenjie Qiu**, **Zeyuan Ma** et. al. "[**Advancing CMA-ES with Learning-Based Cooperative Coevolution for Scalable Optimization**](https://arxiv.org/abs/2504.17578)" arXiv:2504.17578. |
 | 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization**](https://openreview.net/forum?id=EEI5R89Cmv)" ICLR (2025). |
 | 2024 | **Zeyuan Ma**\*, **Jiacheng Chen**\*, **Hongshu Guo**, et. al. "[**Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08239.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
 | 2024 | **Hongqiao Lian**, **Zeyuan Ma**, **Hongshu Guo**, et. al. "[**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08242.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
 | 2024 | **Hongshu Guo**, **Zeyuan Ma**, **Jiacheng Chen**, et. al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://ieeexplore.ieee.org/abstract/document/10496708)" *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (2024). |
-| 2024 | **Jiacheng Chen**\*, **Zeyuan Ma**\*, et. al. "[**Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt)" *The Twelfth International Conference on Learning Representations* (ICLR 2024) |
+| 2024 | **Jiacheng Chen**\*, **Zeyuan Ma**\*, et. al. "[**Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt)" *The Twelfth International Conference on Learning Representations* (ICLR 2024). |
 
 ## Exploring AGI & Optimization
 
 | Year | Paper |
 |:---:|:---:|
-| 2025 | **Zeyuan Ma**, et. al. "[**Evolutionary System 2 Reasoning: An Empirical Proof**](https://arxiv.org/abs/2512.05760)" *Journal of Intelligent and Sustainable Systems* (2025) |
-| 2024 | **Zeyuan Ma**, **Hongshu Guo**, **Jiacheng Chen**, et. al. "[**LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**](https://arxiv.org/abs/2403.01131)" |
+| 2025 | **Zeyuan Ma**, et. al. "[**Evolutionary System 2 Reasoning: An Empirical Proof**](https://arxiv.org/abs/2512.05760)" *Journal of Intelligent and Sustainable Systems* (2025). |
+| 2024 | **Zeyuan Ma**, **Hongshu Guo**, **Jiacheng Chen**, et. al. "[**LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**](https://arxiv.org/abs/2403.01131)". |
+
+## Data Driven Evolutionary Algorithms
+
+| Year | Paper |
+|:---:|:---:|
+| 2023 | **Gong, Yue-Jiao**, **Yuan-Ting Zhong**, Hao-Gan Huang. ["**Offline data-driven optimization at scale: A cooperative coevolutionary approach**."](https://ieeexplore.ieee.org/abstract/document/10339654/) *IEEE Transactions on Evolutionary Computation* (2023). |
+| 2024 | **Zhong, Yuanting**, et al. ["**Sddobench: A benchmark for streaming data-driven optimization with concept drift**."](https://dl.acm.org/doi/abs/10.1145/3638529.3654063) *Proceedings of the Genetic and Evolutionary Computation Conference* (GECCO 2024). |
+| 2025 | **Zhong, Yuan-Ting**, **Yue-Jiao Gong**. ["**Data-Driven Evolutionary Computation Under Continuously Streaming Environments: A Drift-Aware Approach.**"](https://ieeexplore.ieee.org/abstract/document/11082370/) *IEEE Transactions on Evolutionary Computation* (2025). |
+| 2025 | **Zhong, Yuan-Ting**, et al. ["**TRACE: A Generalizable Drift Detector for Streaming Data-Driven Optimization.**"](https://arxiv.org/abs/2512.07082) arXiv:2512.07082. |
 
 ## Other Topics in Optimization
 
 | Year | Paper |
 |:---:|:---:|
-| 2025 | Wenjie Qiu et. al. "[**A Novel Two-Phase Cooperative Co-evolution Framework for Large-Scale Global Optimization with Complex Overlapping**](https://arxiv.org/abs/2503.21797)" *The Genetic and Evolutionary Computation Conference* (2025) |
-| 2023 | SC Lei, **Hongshu Guo**, et. al. "[**A High-Performance Tensorial Evolutionary Computation for Solving Spatial Optimization Problems**](https://link.springer.com/chapter/10.1007/978-981-99-8126-7_27)" *International Conference on Neural Information Processing* (ICONIP 2023) |
-| 2021 | **Zeyuan Ma**, et. al. "[**An efficient computational approach for automatic itinerary planning on web servers**](https://dl.acm.org/doi/abs/10.1145/3449639.3459301)" *Proceedings of the Genetic and Evolutionary Computation Conference* (GECCO 2021) |
+| 2025 | **Wenjie Qiu** et. al. "[**A Novel Two-Phase Cooperative Co-evolution Framework for Large-Scale Global Optimization with Complex Overlapping**](https://arxiv.org/abs/2503.21797)" *The Genetic and Evolutionary Computation Conference* (2025). |
+| 2023 | SC Lei, **Hongshu Guo**, et. al. "[**A High-Performance Tensorial Evolutionary Computation for Solving Spatial Optimization Problems**](https://link.springer.com/chapter/10.1007/978-981-99-8126-7_27)" *International Conference on Neural Information Processing* (ICONIP 2023). |
+| 2021 | **Zeyuan Ma**, et. al. "[**An efficient computational approach for automatic itinerary planning on web servers**](https://dl.acm.org/doi/abs/10.1145/3449639.3459301)" *Proceedings of the Genetic and Evolutionary Computation Conference* (GECCO 2021). |
 
