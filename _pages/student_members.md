@@ -15,7 +15,17 @@ redirect_from:
 <!-- # PhD -->
 
 <h2>PhD</h2>
+
 <!-- 第一个人 -->
+<div class="profile-container">
+  <img src="/images/members/zyt.jpg" alt="Yuanting Zhong" class="profile-img">
+  <div class="profile-content">
+    <strong>Yuan-Ting Zhong</strong> (Ph.D.24-) received her bachelor's degree in Information Security from the South China University of Technology, Guangzhou, China, in 2023, where she is currently pursuing the Ph.D. degree with the School of Computer Science and Engineering. Her current research interests include data-driven optimization under streaming environments.
+  </div>
+</div>
+
+
+<!-- 第二个人 -->
 <div class="profile-container">
   <img src="/images/members/cjc.jpg" alt="Jiacheng Chen" class="profile-img">
   <div class="profile-content">
