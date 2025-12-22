@@ -226,8 +226,8 @@ redirect_from:
     scroll-snap-type: x mandatory;
     display: flex;
     gap: 15px;
-    /* 限制可视区域为一张图片宽度（与 `.main-img` 保持一致） */
-    width: 300px;
+    /* 限制可视区域为一张图片宽度（与 `.main-img:only-child` 保持一致） */
+    width: 400px;
     max-width: 100%;
     touch-action: pan-x;
 }
