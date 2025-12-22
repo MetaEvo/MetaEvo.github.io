@@ -46,14 +46,14 @@ redirect_from:
 | 2025 | **Zeyuan Ma**, et. al. "[**Evolutionary System 2 Reasoning: An Empirical Proof**](https://arxiv.org/abs/2512.05760)" *Journal of Intelligent and Sustainable Systems* (2025). |
 | 2024 | **Zeyuan Ma**, **Hongshu Guo**, **Jiacheng Chen**, et. al. "[**LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**](https://arxiv.org/abs/2403.01131)". |
 
-## Data Driven Evolutionary Algorithms
+## Data-Driven Evolutionary Algorithms
 
 | Year | Paper |
 |:---:|:---:|
-| 2025 | **Zhong, Yuan-Ting**, et al. ["**TRACE: A Generalizable Drift Detector for Streaming Data-Driven Optimization.**"](https://arxiv.org/abs/2512.07082) arXiv:2512.07082. |
-| 2025 | **Zhong, Yuan-Ting**, **Yue-Jiao Gong**. ["**Data-Driven Evolutionary Computation Under Continuously Streaming Environments: A Drift-Aware Approach.**"](https://ieeexplore.ieee.org/abstract/document/11082370/) *IEEE Transactions on Evolutionary Computation* (2025). |
-| 2024 | **Zhong, Yuanting**, et al. ["**Sddobench: A benchmark for streaming data-driven optimization with concept drift**."](https://dl.acm.org/doi/abs/10.1145/3638529.3654063) *Proceedings of the Genetic and Evolutionary Computation Conference* (GECCO 2024). |
-| 2023 | **Gong, Yue-Jiao**, **Yuan-Ting Zhong**, Hao-Gan Huang. ["**Offline data-driven optimization at scale: A cooperative coevolutionary approach**."](https://ieeexplore.ieee.org/abstract/document/10339654/) *IEEE Transactions on Evolutionary Computation* (2023). |
+| 2025 | **Yuan-Ting Zhong**, et al. ["**TRACE: A Generalizable Drift Detector for Streaming Data-Driven Optimization.**"](https://arxiv.org/abs/2512.07082) *The 40th Annual AAAI Conference on Artificial Intelligence* (AAAI 2026). |
+| 2025 | **Yuan-Ting Zhong**, **Yue-Jiao Gong**. ["**Data-Driven Evolutionary Computation Under Continuously Streaming Environments: A Drift-Aware Approach.**"](https://ieeexplore.ieee.org/abstract/document/11082370/) *IEEE Transactions on Evolutionary Computation* (2025). |
+| 2024 | **Yuan-Ting Zhong**, et al. ["**Sddobench: A benchmark for streaming data-driven optimization with concept drift**."](https://dl.acm.org/doi/abs/10.1145/3638529.3654063) *Proceedings of the Genetic and Evolutionary Computation Conference* (GECCO 2024). |
+| 2024 | **Yue-Jiao Gong**, **Yuan-Ting Zhong**, Hao-Gan Huang. ["**Offline data-driven optimization at scale: A cooperative coevolutionary approach**."](https://ieeexplore.ieee.org/abstract/document/10339654/) *IEEE Transactions on Evolutionary Computation* (2024). |
 
 ## Other Topics in Optimization
 
