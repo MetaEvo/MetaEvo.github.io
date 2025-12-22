@@ -226,17 +226,23 @@ redirect_from:
     scroll-snap-type: x mandatory;
     display: flex;
     gap: 15px;
+    /* 限制可视区域为一张图片宽度（与 `.main-img` 保持一致） */
+    width: 300px;
+    max-width: 100%;
+    touch-action: pan-x;
 }
 .gallery-images.scrollable a {
-    scroll-snap-align: center;
+    scroll-snap-align: start;
     flex: 0 0 auto;
+    display: block;
 }
 .gallery-images.scrollable img {
-    width: 300px;
+    width: 100%;
     height: 200px;
     object-fit: cover;
     border-radius: 8px;
     border: 2px solid #f8f9fa;
+    display: block;
 }
 
 /* 小型左右控制按钮（仅在宽屏时可见） */
