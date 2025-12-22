@@ -30,6 +30,18 @@ redirect_from:
 
 <section class="team-gallery">
     <div class="gallery-container">
+        <!-- CCF演化计算会议 -->
+        <div class="gallery-item">
+            <div class="gallery-images scrollable" id="activity-three-images">
+                <a href="/images/CCF演化计算1.jpg" class="image-popup"><img src="/images/CCF演化计算1.jpg" alt="CCF演化计算1" class="main-img"></a>
+                <a href="/images/CCF演化计算2.jpg" class="image-popup"><img src="/images/CCF演化计算2.jpg" alt="CCF演化计算2" class="main-img"></a>
+                <a href="/images/CCF演化计算3.jpg" class="image-popup"><img src="/images/CCF演化计算3.jpg" alt="CCF演化计算3" class="main-img"></a>
+            </div>
+            <div class="gallery-info">
+                <h3>Team members participated in the First China Computer Federation Evolutionary Computing Conference (2025/12)</h3>
+                <p></p>
+            </div>
+        </div>
         <!-- 19届挑战杯 -->
         <div class="gallery-item">
             <div class="gallery-images">
@@ -207,4 +219,64 @@ redirect_from:
     font-size: 1em;
 }
 
+/* 可横向滑动的图片行 */
+.gallery-images.scrollable {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    display: flex;
+    gap: 15px;
+}
+.gallery-images.scrollable a {
+    scroll-snap-align: center;
+    flex: 0 0 auto;
+}
+.gallery-images.scrollable img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid #f8f9fa;
+}
+
+/* 小型左右控制按钮（仅在宽屏时可见） */
+.gallery-control {
+    position: relative;
+}
+.gallery-control button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    border: none;
+    padding: 8px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.gallery-control .prev { left: 8px; }
+.gallery-control .next { right: 8px; }
+
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+    document.querySelectorAll('.gallery-images.scrollable').forEach(function(container){
+        // 增加左右按钮
+        var wrapper = container.parentElement;
+        wrapper.classList.add('gallery-control');
+        var btnPrev = document.createElement('button');
+        btnPrev.className = 'prev'; btnPrev.title = 'Previous'; btnPrev.innerHTML = '◀';
+        var btnNext = document.createElement('button');
+        btnNext.className = 'next'; btnNext.title = 'Next'; btnNext.innerHTML = '▶';
+        wrapper.appendChild(btnPrev); wrapper.appendChild(btnNext);
+
+        btnPrev.addEventListener('click', function(){
+            container.scrollBy({left: - (container.clientWidth - 80), behavior: 'smooth'});
+        });
+        btnNext.addEventListener('click', function(){
+            container.scrollBy({left: container.clientWidth - 80, behavior: 'smooth'});
+        });
+    });
+});
+</script>
