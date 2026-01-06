@@ -11,6 +11,8 @@ redirect_from:
 
 | Activity | Type | Title |Date|
 |:---:|:---:|:---:|:---:|
+| NICE Student Seminar(2025-12-27)| talk| [Instance Generation for Meta-Black-Box Optimization through Latent Space Reverse Engineering](https://www.bilibili.com/video/BV1utBrBfED4/?spm_id_from=333.788.videopod.episodes&vd_source=7a458276398501168b8383893f7750a6&p=11)|2025/12|
+| NICE Student Seminar(2025-12-27)| talk| [TRACE: A Generalizable Drift Detector for Streaming Data-Driven Optimization](https://www.bilibili.com/video/BV1utBrBfED4/?spm_id_from=333.788.videopod.episodes&vd_source=7a458276398501168b8383893f7750a6&p=4)|2025/12|
 | NICE Student Seminar(2025-06-02)| talk| [ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2240ecc28ef3670ad2e26c710fcfd985)|2025/06|
 | NICE Student Seminar(2025-06-02)| talk| [Neural Exploratory Landscape Analysis for Meta-Black-Box-Optimization](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2240ecc28ef3670ad2e26c710fcfd985)|2025/06|
 | NICE Student Seminar(2025-06-02)| talk| [Meta-Black-Box-Optimization through Offline Q-function Learning](https://www.bilibili.com/video/BV1Ck7azREzp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=2240ecc28ef3670ad2e26c710fcfd985)|2025/06|
@@ -30,6 +32,17 @@ redirect_from:
 
 <section class="team-gallery">
     <div class="gallery-container">
+        <!-- 2025 12月团队聚餐 -->
+        <div class="gallery-item">
+            <div class="gallery-images scrollable" id="activity-two-images">
+                <a href="/images/2025年12月团队聚餐大合照1.jpg" class="image-popup"><img src="/images/2025年12月团队聚餐大合照1.jpg" alt="2025年12月团队聚餐1" class="main-img"></a>
+                <a href="/images/2025年12月团队聚餐大合照2.jpg" class="image-popup"><img src="/images/2025年12月团队聚餐大合照2.jpg" alt="2025年12月团队聚餐2" class="main-img"></a>
+            </div>
+            <div class="gallery-info">
+                <h3>Team members Year-end Gathering 2025（2025/12）</h3>
+                <p></p>
+            </div>
+        </div>
         <!-- CCF演化计算会议 -->
         <div class="gallery-item">
             <div class="gallery-images scrollable" id="activity-three-images">
@@ -233,7 +246,8 @@ redirect_from:
 }
 .gallery-images.scrollable a {
     scroll-snap-align: start;
-    flex: 0 0 auto;
+    flex: 0 0 100%;
+    width: 100%;
     display: block;
 }
 .gallery-images.scrollable img {
@@ -278,10 +292,10 @@ document.addEventListener('DOMContentLoaded', function(){
         wrapper.appendChild(btnPrev); wrapper.appendChild(btnNext);
 
         btnPrev.addEventListener('click', function(){
-            container.scrollBy({left: - (container.clientWidth - 80), behavior: 'smooth'});
+            container.scrollBy({left: -container.clientWidth, behavior: 'smooth'});
         });
         btnNext.addEventListener('click', function(){
-            container.scrollBy({left: container.clientWidth - 80, behavior: 'smooth'});
+            container.scrollBy({left: container.clientWidth, behavior: 'smooth'});
         });
     });
 });
