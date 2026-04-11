@@ -18,7 +18,8 @@ We are a research team mainly focus on the Evolutionary Computation, Deep Reinfo
 ### Some useful resources we prepared for you
 1. To learn MetaBBO conceptually, we have prepared a [**related papers repo**](https://github.com/MetaEvo/Awesome-MetaBBO), which is maintained and updated regularly to trace latest works.
 2. To develop and learn MetaBBO in practice, we have prepared a [**benchmarking platform**](https://github.com/MetaEvo/MetaBox), which now supports various optimization problem types and plentiful baselines. Enjoy!
-3. For our already [**published works**](https://metaevo.github.io/publications/), we have opensourced their detailed implementations in [**MetaEvo's repositories**](https://github.com/orgs/MetaEvo/repositories) for the convenience of researchers with interests. 
+3. For our already [**published works**](https://metaevo.github.io/publications/), we have opensourced their detailed implementations in [**MetaEvo's repositories**](https://github.com/orgs/MetaEvo/repositories) for the convenience of researchers with interests.
+4. We have held several [Workshops](https://metaevo.github.io/activities/) ([LEAD 2025](https://sites.google.com/view/leadworkshop2025) and [OPEA 2025](https://sites.google.com/view/opeaworshop2025)), which presented diverse research topics across multiple frontier directions in artificial intelligence and learning-assisted evolutionary computation. Additional workshops, such as [IJCAI-LEAD 2026](https://sites.google.com/view/lead-ijcai-ecai2026), will be held in the near future (2026/08/15-2026/08/17). We invite interested scholars to [submit papers](https://sites.google.com/view/lead-ijcai-ecai2026/call-for-contributions) and participate in our upcoming workshop. We also encourage all researchers to stay informed about our team's future activities!
 
 ## Contact Us
 We are available on E-mail: scut.crazynicolas@gmail.com
