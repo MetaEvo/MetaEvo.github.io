@@ -7,6 +7,15 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+
+## Workshops
+
+| Activity | Date | Title | Location |
+|:---:|:---:|:---:|:---:|
+| IJCAI-LEAD 2026 | 2026/08/15~2026/08/17 ([coming soon](https://sites.google.com/view/lead-ijcai-ecai2026/call-for-contributions)) | [The First International Workshop on Learning-assisted Algorithm Design](https://sites.google.com/view/lead-ijcai-ecai2026)| Bremen, Germany |
+| OPEA 2025 | 2025/11/30~2025/12/03 | [International Workshop on Optimizing Personalized Education with AI](https://sites.google.com/view/opeaworshop2025)| Hong Kong, China |
+| LEAD 2025 | 2025/09/13~2025/09/14 | [LEAD 2025：The Workshop on Learning-assisted Evolutionary Algorithm Design](https://sites.google.com/view/leadworkshop2025)| [Online](https://space.bilibili.com/432369976) |
+
 ## Talks
 
 | Activity | Type | Title |Date|
