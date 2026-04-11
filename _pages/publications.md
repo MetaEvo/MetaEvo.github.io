@@ -43,7 +43,7 @@ redirect_from:
 | 2026 | **Wenjie Qiu**, et al. "[**A Learning-Based Cooperative Coevolution Framework for Heterogeneous Large-Scale Global Optimization**](https://arxiv.org/abs/2604.01241)." *The Genetic and Evolutionary Computation Conference* (2026). |
 | 2026 | **Yuxin Wu**, et al. "[**Surrogate Ensemble in Expensive Multi-Objective Optimization via Deep Q-Learning**](https://arxiv.org/abs/2602.00540)." *arXiv preprint* (2026). |
 | 2026 | **Qianhao Zhu**, et al. "[**Reinforcement Learning-assisted Constraint Relaxation for Constrained Expensive Optimization**](https://arxiv.org/abs/2602.00532)." *arXiv preprint* (2026). |
-| 2026 | **Zipei Yu**, et al. "[**COBRA++: Enhanced COBRA Optimizer with Augmented Surrogate Pool and Reinforced Surrogate Selection**](https://arxiv.org/abs/2601.22624)." *The Genetic and Evolutionary Computation Conference* (2026). |
+| 2026 | **Zipei Yu**, et al. "[**COBRA++: Enhanced COBRA Optimizer with Augmented Surrogate Pool and Reinforced Surrogate Selection**](https://arxiv.org/abs/2601.22624)." *The Genetic and Evolutionary Computation Conference (poster)* (2026). |
 | 2026 | **Zijian Gao**, et al. "[**Detect and Act: Automated Dynamic Optimizer through Meta-Black-Box Optimization**](https://arxiv.org/abs/2601.22542)." *The Genetic and Evolutionary Computation Conference* (2026).|
 
 
