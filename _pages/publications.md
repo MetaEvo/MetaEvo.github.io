@@ -12,22 +12,27 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
+| 2026 | **Chen Wang**, et al. "[**Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model**](https://arxiv.org/abs/2601.21877)." *arXiv preprint* (2026). | 
 | 2026 | **Chen Wang**, **Zeyuan Ma**, et al. "[**Instance Generation for Meta-Black-Box Optimization through Latent Space Reverse Engineering**](https://arxiv.org/abs/2509.15810)" *The 40th Annual AAAI Conference on Artificial Intelligence* (AAAI 2026) |
 | 2025 | **Zeyuan Ma**, et al. "[**MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**](https://arxiv.org/abs/2505.17745)" *Advances in Neural Information Processing Systems 38* (NeurIPS 2025) |
 | 2023 | **Zeyuan Ma**, et al. "[**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**](https://neurips.cc/virtual/2023/oral/73737)." *Advances in Neural Information Processing Systems 36* (NeurIPS 2023. **Oral**). | 
-| 2026 | **Chen Wang**, et al. "[**Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model**](https://arxiv.org/abs/2601.21877)." *arXiv preprint* (2026). | 
 
 ## MetaBBO Surveys
 
 | Year | Paper |
 |:---:|:---:|
-| 2024 | **Zeyuan Ma**, et al. "[**Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization**](https://arxiv.org/abs/2411.00625)." *IEEE Transactions on Evolutionary Computation* (2025). |
 | 2026 | **邱文杰**, et al. "[**自动黑箱优化算法设计：进展与挑战**](http://cjc.ict.ac.cn/online/bfpub/qwj-202632100036.pdf)." *Chinese Journal of Computers (计算机学报)* (2026). |
+| 2024 | **Zeyuan Ma**, et al. "[**Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization**](https://arxiv.org/abs/2411.00625)." *IEEE Transactions on Evolutionary Computation* (2025). |
 
 ## Developing MetaBBO Approaches
 
 | Year | Paper |
 |:---:|:---:|
+| 2026 | **Wenjie Qiu**, et al. "[**A Learning-Based Cooperative Coevolution Framework for Heterogeneous Large-Scale Global Optimization**](https://arxiv.org/abs/2604.01241)." *The Genetic and Evolutionary Computation Conference* (2026). |
+| 2026 | **Yuxin Wu**, et al. "[**Surrogate Ensemble in Expensive Multi-Objective Optimization via Deep Q-Learning**](https://arxiv.org/abs/2602.00540)." *arXiv preprint* (2026). |
+| 2026 | **Qianhao Zhu**, et al. "[**Reinforcement Learning-assisted Constraint Relaxation for Constrained Expensive Optimization**](https://arxiv.org/abs/2602.00532)." *arXiv preprint* (2026). |
+| 2026 | **Zipei Yu**, et al. "[**COBRA++: Enhanced COBRA Optimizer with Augmented Surrogate Pool and Reinforced Surrogate Selection**](https://arxiv.org/abs/2601.22624)." *The Genetic and Evolutionary Computation Conference (poster)* (2026). |
+| 2026 | **Zijian Gao**, et al. "[**Detect and Act: Automated Dynamic Optimizer through Meta-Black-Box Optimization**](https://arxiv.org/abs/2601.22542)." *The Genetic and Evolutionary Computation Conference* (2026).|
 | 2025 | **Hongshu Guo**, **Zeyuan Ma**, et al. "[**DesignX: Human-Competitive Algorithm Designer for Black-Box Optimization**](https://arxiv.org/abs/2505.17866)" *Advances in Neural Information Processing Systems 38* (NeurIPS 2025). |
 | 2025 | **Zeyuan Ma** et. al. "[**Meta-Black-Box-Optimization through Offline Q-function Learning**](https://arxiv.org/abs/2505.02010)" (ICML 2025). |
 | 2025 | **Zeyuan Ma** et. al. "[**Surrogate Learning in Meta-Black-Box Optimization: A Preliminary Study**](https://arxiv.org/abs/2503.18060)" *The Genetic and Evolutionary Computation Conference* (2025). |
@@ -40,20 +45,15 @@ redirect_from:
 | 2024 | **Hongqiao Lian**, **Zeyuan Ma**, **Hongshu Guo**, et. al. "[**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**](https://arxiv.org/pdf/2404.08242.pdf)" *The Genetic and Evolutionary Computation Conference* (2024). |
 | 2024 | **Hongshu Guo**, **Zeyuan Ma**, **Jiacheng Chen**, et. al. "[**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**](https://ieeexplore.ieee.org/abstract/document/10496708)" *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (2024). |
 | 2024 | **Jiacheng Chen**\*, **Zeyuan Ma**\*, et. al. "[**Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**](https://openreview.net/forum?id=vLJcd43U7a&noteId=Z5vpEil2mt)" *The Twelfth International Conference on Learning Representations* (ICLR 2024). |
-| 2026 | **Wenjie Qiu**, et al. "[**A Learning-Based Cooperative Coevolution Framework for Heterogeneous Large-Scale Global Optimization**](https://arxiv.org/abs/2604.01241)." *The Genetic and Evolutionary Computation Conference* (2026). |
-| 2026 | **Yuxin Wu**, et al. "[**Surrogate Ensemble in Expensive Multi-Objective Optimization via Deep Q-Learning**](https://arxiv.org/abs/2602.00540)." *arXiv preprint* (2026). |
-| 2026 | **Qianhao Zhu**, et al. "[**Reinforcement Learning-assisted Constraint Relaxation for Constrained Expensive Optimization**](https://arxiv.org/abs/2602.00532)." *arXiv preprint* (2026). |
-| 2026 | **Zipei Yu**, et al. "[**COBRA++: Enhanced COBRA Optimizer with Augmented Surrogate Pool and Reinforced Surrogate Selection**](https://arxiv.org/abs/2601.22624)." *The Genetic and Evolutionary Computation Conference (poster)* (2026). |
-| 2026 | **Zijian Gao**, et al. "[**Detect and Act: Automated Dynamic Optimizer through Meta-Black-Box Optimization**](https://arxiv.org/abs/2601.22542)." *The Genetic and Evolutionary Computation Conference* (2026).|
 
 
 ## Exploring AGI & Optimization
 
 | Year | Paper |
 |:---:|:---:|
+| 2026 | **Zechuan Huang**, et al. "[**READY: Reward Discovery for Meta-Black-Box Optimization**](https://arxiv.org/abs/2601.21847)." *arXiv preprint* (2026). |
 | 2025 | **Zeyuan Ma**, et. al. "[**Evolutionary System 2 Reasoning: An Empirical Proof**](https://arxiv.org/abs/2512.05760)" *Journal of Intelligent and Sustainable Systems* (2025). |
 | 2024 | **Zeyuan Ma**, **Hongshu Guo**, **Jiacheng Chen**, et. al. "[**LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**](https://arxiv.org/abs/2403.01131)". |
-| 2026 | **Zechuan Huang**, et al. "[**READY: Reward Discovery for Meta-Black-Box Optimization**](https://arxiv.org/abs/2601.21847)." *arXiv preprint* (2026). |
 
 
 ## Data-Driven Evolutionary Algorithms
