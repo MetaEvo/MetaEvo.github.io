@@ -41,6 +41,41 @@ redirect_from:
 
 <section class="team-gallery">
     <div class="gallery-container">
+        <!-- The 8th International Conference on Data-Driven Optimization of Complex Systems -->
+        <div class="gallery-item">
+            <div class="gallery-images scrollable" id="ddocs-2026-images">
+                <a href="/images/2026-ddocs-1.jpg" class="image-popup"><img src="/images/2026-ddocs-1.jpg" alt="MetaEvo members at DDOCS 2026" class="main-img"></a>
+                <a href="/images/2026-ddocs-2.jpg" class="image-popup"><img src="/images/2026-ddocs-2.jpg" alt="The 8th International Conference on Data-Driven Optimization of Complex Systems" class="main-img"></a>
+            </div>
+            <div class="gallery-info">
+                <h3>Prof. Yue-Jiao Gong gave a presentation at the 8th International Conference on Data-Driven Optimization of Complex Systems. (2026/07)</h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- Team building activity -->
+        <div class="gallery-item">
+            <div class="gallery-images scrollable" id="team-building-2026-images">
+                <a href="/images/2026-team-building-1.jpg" class="image-popup"><img src="/images/2026-team-building-1.jpg" alt="MetaEvo team building activity" class="main-img"></a>
+                <a href="/images/2026-team-building-2.jpg" class="image-popup"><img src="/images/2026-team-building-2.jpg" alt="MetaEvo members at the team building activity" class="main-img"></a>
+            </div>
+            <div class="gallery-info">
+                <h3>Team members participated in a team-building activity. (2026/07)</h3>
+                <p></p>
+            </div>
+        </div>
+        <!-- Graduation ceremony -->
+        <div class="gallery-item">
+            <div class="gallery-images scrollable" id="graduation-2026-images">
+                <a href="/images/2026-graduation-1.jpg" class="image-popup"><img src="/images/2026-graduation-1.jpg" alt="MetaEvo graduation ceremony group photo" class="main-img"></a>
+                <a href="/images/2026-graduation-2.jpg" class="image-popup"><img src="/images/2026-graduation-2.jpg" alt="MetaEvo members at the graduation ceremony" class="main-img"></a>
+                <a href="/images/2026-graduation-3.jpg" class="image-popup"><img src="/images/2026-graduation-3.jpg" alt="Graduating MetaEvo members" class="main-img"></a>
+                <a href="/images/2026-graduation-4.jpg" class="image-popup"><img src="/images/2026-graduation-4.jpg" alt="Graduation ceremony celebration" class="main-img"></a>
+            </div>
+            <div class="gallery-info">
+                <h3>Group photos of MetaEvo members at the graduation ceremony. (2026/06)</h3>
+                <p></p>
+            </div>
+        </div>
         <!-- 2025 12月团队聚餐 -->
         <div class="gallery-item">
             <div class="gallery-images scrollable" id="activity-two-images">
