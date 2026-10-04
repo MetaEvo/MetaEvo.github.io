@@ -24,12 +24,11 @@ redirect_from:
 
 <div style="clear: both;"></div>
 
-<!-- Student Founder -->
-<h2>Student Founder</h2>
+<!-- Advisor -->
 <div class="profile-container">
   <img src="/images/mzy_photo.jpg" alt="Zeyuan Ma" class="profile-img">
   <div class="profile-content">
-    <strong><a href="https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN" target="_blank">Zeyuan Ma</a></strong> (PhD, 22-26) received the B.Eng. degree in the school of Computer Science and Engineering, South China University of Technology, Guangzhou, China, in 2022. He is currently pursuing the Ph.D. degree with the School of Computer Science and Engineering, South China University of Technology, China. He is working at the intersection of Machine Learning (ML) and Optimization. In particular, his research interests include Deep Reinforcement Learning (<b>DRL</b>), Black-Box Optimization (<b>BBO</b>), Meta-Black-Box Optimization (<b>MetaBBO</b>), which has been featured in pioneering conferences and journals, such as NeurIPS, ICLR, AAAI, GECCO, TSMC, etc. He has served as Reviewer Member for well-known conferences including NeurIPS, ICML, ICLR as well as journals such as TNNLS, TETCI, TEVC, TCDS. Notably, he has been recogonized as "<b>Notable Reviewer</b>" of ICLR 2025.
+    <strong><a href="https://scholar.google.com/citations?user=Jcy8wPgAAAAJ&hl=zh-CN" target="_blank">Zeyuan Ma</a></strong> (PhD, 22-26) received the Ph.D. degree in the school of Computer Science and Engineering, South China University of Technology, Guangzhou, China, in 2022. He is currently an Associate Professor with the School of Artificial Intelligence, South China Normal Univeristy, China. He is working at the intersection of Machine Learning (ML) and Optimization. In particular, his research interests include Deep Reinforcement Learning (<b>DRL</b>), Black-Box Optimization (<b>BBO</b>), Meta-Black-Box Optimization (<b>MetaBBO</b>), which has been featured in pioneering conferences and journals, such as ICML, NeurIPS, ICLR, AAAI, ACM GECCO, IEEE TEVC etc. He has published over 30 papers. He has served as Reviewer Member for well-known conferences including NeurIPS, ICML, ICLR as well as journals such as TPAMI, TEVC, TNNLS etc. Notably, he has been recogonized as "<b>Notable Reviewer</b>" of ICLR 2025, "<b>Golden Reviewer</b>" of ICML 2026, and has been invited as Area Chair for ICLR 2027. 
   </div>
 </div>
 
@@ -40,6 +39,7 @@ redirect_from:
   </div>
 </div>
 
+<h2>Student Leader</h2>
 <div class="profile-container">
   <img src="/images/members/qwj.jpg" alt="Wenjie Qiu" class="profile-img">
   <div class="profile-content">
