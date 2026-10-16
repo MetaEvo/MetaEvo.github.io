@@ -28,6 +28,7 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
+| 2026 | **Zipei Yu**, **Yue-Jiao Gong**, **Zeyuan Ma** et al. "[**Hyper Algorithm Design Agent: Evolving Learnable Optimizer from Zero**](https://arxiv.org/abs/2609.35328)." *arXiv preprint* (2026). |
 | 2026 | **Sijie Ma**, **Zeyuan Ma** et al. "[**Meta-Learning-Assisted Constraint Relaxation for Constrained Black-Box Optimization**](https://ieeexplore.ieee.org/abstract/document/11719906)." *IEEE Computational Intelligence Letters* (2026). |
 | 2026 | **Sijie Ma**, **Zeyuan Ma** et al. "[**Learning to Optimize UAV Path Planning for Data Sensing in Wireless Sensor Networks**](https://arxiv.org/abs/2609.16629)." *arXiv preprint* (2026). |
 | 2026 | **Wenjie Qiu**, et al. "[**A Learning-Based Cooperative Coevolution Framework for Heterogeneous Large-Scale Global Optimization**](https://arxiv.org/abs/2604.01241)." *The Genetic and Evolutionary Computation Conference* (2026). |
