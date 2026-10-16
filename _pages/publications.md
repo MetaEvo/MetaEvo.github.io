@@ -28,7 +28,6 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
-| 2026 | **Zipei Yu**, **Yue-Jiao Gong**, **Zeyuan Ma** et al. "[**Hyper Algorithm Design Agent: Evolving Learnable Optimizer from Zero**](https://arxiv.org/abs/2609.35328)." *arXiv preprint* (2026). |
 | 2026 | **Sijie Ma**, **Zeyuan Ma** et al. "[**Meta-Learning-Assisted Constraint Relaxation for Constrained Black-Box Optimization**](https://ieeexplore.ieee.org/abstract/document/11719906)." *IEEE Computational Intelligence Letters* (2026). |
 | 2026 | **Sijie Ma**, **Zeyuan Ma** et al. "[**Learning to Optimize UAV Path Planning for Data Sensing in Wireless Sensor Networks**](https://arxiv.org/abs/2609.16629)." *arXiv preprint* (2026). |
 | 2026 | **Wenjie Qiu**, et al. "[**A Learning-Based Cooperative Coevolution Framework for Heterogeneous Large-Scale Global Optimization**](https://arxiv.org/abs/2604.01241)." *The Genetic and Evolutionary Computation Conference* (2026). |
@@ -54,6 +53,7 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
+| 2026 | **Zipei Yu**, **Yue-Jiao Gong**, **Zeyuan Ma** et al. "[**Hyper Algorithm Design Agent: Evolving Learnable Optimizer from Zero**](https://arxiv.org/abs/2609.35328)." *arXiv preprint* (2026). |
 | 2026 | **Zechuan Huang**, et al. "[**READY: Reward Discovery for Meta-Black-Box Optimization**](https://arxiv.org/abs/2601.21847)." *arXiv preprint* (2026). |
 | 2025 | **Zeyuan Ma**, et. al. "[**Evolutionary System 2 Reasoning: An Empirical Proof**](https://arxiv.org/abs/2512.05760)" *Journal of Intelligent and Sustainable Systems* (2025). |
 | 2024 | **Zeyuan Ma**, **Hongshu Guo**, **Jiacheng Chen**, et. al. "[**LLaMoCo: Instruction Tuning of Large Language Models for Optimization Code Generation**](https://arxiv.org/abs/2403.01131)". |
