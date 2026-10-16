@@ -28,6 +28,8 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
+| 2026 | **Sijie Ma**, **Zeyuan Ma** et al. "[**Meta-Learning-Assisted Constraint Relaxation for Constrained Black-Box Optimization**](https://ieeexplore.ieee.org/abstract/document/11719906)." *IEEE Computational Intelligence Letters* (2026). |
+| 2026 | **Sijie Ma**, **Zeyuan Ma** et al. "[**Learning to Optimize UAV Path Planning for Data Sensing in Wireless Sensor Networks**](https://arxiv.org/abs/2609.16629)." *arXiv preprint* (2026). |
 | 2026 | **Wenjie Qiu**, et al. "[**A Learning-Based Cooperative Coevolution Framework for Heterogeneous Large-Scale Global Optimization**](https://arxiv.org/abs/2604.01241)." *The Genetic and Evolutionary Computation Conference* (2026). |
 | 2026 | **Yuxin Wu**, et al. "[**Surrogate Ensemble in Expensive Multi-Objective Optimization via Deep Q-Learning**](https://arxiv.org/abs/2602.00540)." *arXiv preprint* (2026). |
 | 2026 | **Qianhao Zhu**, et al. "[**Reinforcement Learning-assisted Constraint Relaxation for Constrained Expensive Optimization**](https://arxiv.org/abs/2602.00532)." *arXiv preprint* (2026). |
