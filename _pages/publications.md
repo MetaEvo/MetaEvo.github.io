@@ -12,8 +12,7 @@ redirect_from:
 
 | Year | Paper |
 |:---:|:---:|
-| 2026 | **Chen Wang**, et al. "[**Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model**](https://icml.cc/virtual/2026/poster/66029)." *Proceedings of the 43rd International Conference on Machine
-Learning* (ICML 2026). | 
+| 2026 | **Chen Wang**, et al. "[**Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model**](https://icml.cc/virtual/2026/poster/66029)." *Proceedings of the 43rd International Conference on Machine Learning* (ICML 2026). | 
 | 2026 | **Chen Wang**, **Zeyuan Ma**, et al. "[**Instance Generation for Meta-Black-Box Optimization through Latent Space Reverse Engineering**](https://arxiv.org/abs/2509.15810)" *The 40th Annual AAAI Conference on Artificial Intelligence* (AAAI 2026) |
 | 2025 | **Zeyuan Ma**, et al. "[**MetaBox-v2: A Unified Benchmark Platform for Meta-Black-Box Optimization**](https://arxiv.org/abs/2505.17745)" *Advances in Neural Information Processing Systems 38* (NeurIPS 2025) |
 | 2023 | **Zeyuan Ma**, et al. "[**MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning**](https://neurips.cc/virtual/2023/oral/73737)." *Advances in Neural Information Processing Systems 36* (NeurIPS 2023. **Oral**). | 
